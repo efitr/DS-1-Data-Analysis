@@ -1,0 +1,488 @@
+company_permalink,company_name,company_category_code,company_country_code,company_state_code,company_region,company_city,investor_permalink,investor_name,investor_category_code,investor_country_code,investor_state_code,investor_region,investor_city,funding_round_type,funded_at,funded_month,funded_quarter,funded_year,raised_amount_usd,id
+"/company/aimwith",AimWith,,USA,CA,SF Bay,San Francisco,/financial-organization/drm-ventures,DR�M VENTURES,,USA,CA,SF Bay,San Mateo,angel,9/4/13,2013-09,2013-Q3,2013.0,5000.0,23429
+"/company/adioso",Adioso,travel,USA,CA,SF Bay,San Francisco,/company/y-combinator,Y Combinator,finance,USA,CA,SF Bay,Mountain View,angel,1/1/09,2009-01,2009-Q1,2009.0,15000.0,6083
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/company/y-combinator,Y Combinator,finance,USA,CA,SF Bay,Mountain View,angel,1/1/09,2009-01,2009-Q1,2009.0,20000.0,6034
+"/company/advice-wallet",Advice Wallet,mobile,USA,CA,SF Bay,San Francisco,/person/pavel-melnyk,Pavel Melnyk,,,,unknown,,angel,2/21/13,2013-02,2013-Q1,2013.0,25000.0,80208
+"/company/allvoices",Allvoices,news,USA,CA,SF Bay,San Francisco,/financial-organization/vantagepoint-capital-partners,VantagePoint Capital Partners,,USA,CA,SF Bay,San Bruno,series-a,7/31/06,2006-07,2006-Q3,2006.0,51068.0,66746
+"/company/atooma",Atooma,mobile,USA,CA,SF Bay,San Francisco,/person/marco-marinucci,Marco Marinucci,,,,unknown,,angel,1/1/13,2013-01,2013-Q1,2013.0,65000.0,78180
+"/company/adioso",Adioso,travel,USA,CA,SF Bay,San Francisco,/person/paul-buchheit,Paul Buchheit,,,,unknown,,angel,3/1/09,2009-03,2009-Q1,2009.0,70000.0,80077
+"/company/adioso",Adioso,travel,USA,CA,SF Bay,San Francisco,/person/steve-huffman,Steve Huffman,,,,unknown,,angel,3/1/09,2009-03,2009-Q1,2009.0,70000.0,82508
+"/company/adioso",Adioso,travel,USA,CA,SF Bay,San Francisco,/person/wayne-crosby,Wayne Crosby,,,,unknown,,angel,3/1/09,2009-03,2009-Q1,2009.0,70000.0,83575
+"/company/adioso",Adioso,travel,USA,CA,SF Bay,San Francisco,/person/alexis-ohanian,Alexis Ohanian,,,,unknown,,angel,3/1/09,2009-03,2009-Q1,2009.0,70000.0,70483
+"/company/adioso",Adioso,travel,USA,CA,SF Bay,San Francisco,/person/chris-nokleburg,Chris Nokleburg,,,,unknown,,angel,3/1/09,2009-03,2009-Q1,2009.0,70000.0,72352
+"/company/adioso",Adioso,travel,USA,CA,SF Bay,San Francisco,/person/tim-cederman-haysom,Tim Cederman-Haysom,,,,unknown,,angel,3/1/09,2009-03,2009-Q1,2009.0,70000.0,82900
+"/company/adioso",Adioso,travel,USA,CA,SF Bay,San Francisco,/person/robby-walker,Robby Walker,,,,unknown,,angel,3/1/09,2009-03,2009-Q1,2009.0,70000.0,81137
+"/company/advice-wallet",Advice Wallet,mobile,USA,CA,SF Bay,San Francisco,/company/happy-farm,Happy Farm,consulting,UKR,,Schaslyve,Schaslyve,angel,11/1/12,2012-11,2012-Q4,2012.0,70000.0,2261
+"/company/adstage",AdStage,advertising,USA,CA,SF Bay,San Francisco,/person/david-sacks,David Sacks,,,,unknown,,angel,6/21/13,2013-06,2013-Q2,2013.0,100000.0,73369
+"/company/atooma",Atooma,mobile,USA,CA,SF Bay,San Francisco,/person/stefano-zoccatelli-francescao-starace,Stefano Zoccatelli & Francescao Starace,,,,unknown,,angel,3/10/13,2013-03,2013-Q1,2013.0,100000.0,82392
+"/company/anapsis",Anapsis,analytics,USA,CA,SF Bay,San Francisco,/company/rock-health,Rock Health,health,USA,CA,SF Bay,San Francisco,angel,6/1/13,2013-06,2013-Q2,2013.0,100000.0,4094
+"/company/augmedix",Augmedix,health,USA,,SF Bay,San Francisco,/company/rock-health,Rock Health,health,USA,CA,SF Bay,San Francisco,angel,7/1/13,2013-07,2013-Q3,2013.0,100000.0,4100
+"/company/adstage",AdStage,advertising,USA,CA,SF Bay,San Francisco,/person/jason-calacanis,Jason Calacanis,,,,unknown,,angel,6/21/13,2013-06,2013-Q2,2013.0,100000.0,75779
+"/company/apiary",Apiary,software,USA,CA,SF Bay,San Francisco,/person/esther-dyson,Esther Dyson,,,,unknown,,angel,12/23/11,2011-12,2011-Q4,2011.0,120000.0,74303
+"/company/apiary",Apiary,software,USA,CA,SF Bay,San Francisco,/person/neil-davidson,Neil Davidson,,,,unknown,,angel,12/23/11,2011-12,2011-Q4,2011.0,120000.0,79558
+"/company/atooma",Atooma,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/zernike-meta-ventures,Zernike Meta Ventures,,,,unknown,,angel,3/5/12,2012-03,2012-Q1,2012.0,132200.0,69967
+"/company/appiphany",Appiphany,mobile,USA,CA,SF Bay,San Francisco,/person/fahad-al-saud,Fahad Al-Saud,,,,unknown,,angel,7/1/12,2012-07,2012-Q3,2012.0,200000.0,74393
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/person/stuart-hunter,Stuart Hunter,,,,unknown,,angel,11/1/11,2011-11,2011-Q4,2011.0,250000.0,82608
+"/company/animated-speech",Animated Speech,software,USA,CA,SF Bay,San Francisco,/financial-organization/keiretsu-forum,Keiretsu Forum,,USA,CA,SF Bay,San Francisco,series-c+,1/22/07,2007-01,2007-Q1,2007.0,250000.0,39017
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/person/yuri-milner,Yuri Milner,,,,unknown,,angel,11/1/11,2011-11,2011-Q4,2011.0,250000.0,83781
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/person/brian-coote,Brian Coote,,,,unknown,,angel,11/1/11,2011-11,2011-Q4,2011.0,250000.0,71854
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/person/michael-schmidt,Michael Schmidt,,,,unknown,,angel,11/1/11,2011-11,2011-Q4,2011.0,250000.0,79088
+"/company/animated-speech",Animated Speech,software,USA,CA,SF Bay,San Francisco,/financial-organization/vegas-valley-angels,Vegas Valley Angels,,,,unknown,,series-c+,1/22/07,2007-01,2007-Q1,2007.0,250000.0,66921
+"/company/animated-speech",Animated Speech,software,USA,CA,SF Bay,San Francisco,/financial-organization/sierra-angels,Sierra Angels,,USA,NV,Incline Village,Incline Village,series-c+,1/22/07,2007-01,2007-Q1,2007.0,250000.0,58248
+"/company/alltrails-com",AllTrails,sports,USA,CA,SF Bay,San Francisco,/financial-organization/campventures,CampVentures,,USA,CA,SF Bay,Los Altos,venture,4/1/13,2013-04,2013-Q2,2013.0,250000.0,16768
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/person/ron-conway,Ron Conway,,,,unknown,,angel,11/1/11,2011-11,2011-Q4,2011.0,250000.0,81443
+"/company/advice-wallet",Advice Wallet,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/imperious-group,Imperious Group,,,,unknown,,angel,7/1/13,2013-07,2013-Q3,2013.0,300000.0,34941
+"/company/auctomatic",Auctomatic,web,USA,CA,SF Bay,San Francisco,/person/chris-sacca,Chris Sacca,,,,unknown,,angel,1/1/07,2007-01,2007-Q1,2007.0,400000.0,72362
+"/company/astrid",Astrid,social,USA,CA,SF Bay,San Francisco,/person/jack-herrick-2,Jack Herrick,,,,unknown,,angel,4/13/12,2012-04,2012-Q2,2012.0,400000.0,75529
+"/company/astrid",Astrid,social,USA,CA,SF Bay,San Francisco,/financial-organization/google-ventures,Google Ventures,,USA,CA,SF Bay,Mountain View,angel,4/13/12,2012-04,2012-Q2,2012.0,400000.0,30547
+"/company/audiodraft",Audiodraft,music,USA,CA,SF Bay,San Francisco,/financial-organization/promus-ventures,Promus Ventures,,USA,IL,Chicago,Chicago,venture,7/17/13,2013-07,2013-Q3,2013.0,400000.0,52937
+"/company/alltrails-com",AllTrails,sports,USA,CA,SF Bay,San Francisco,/financial-organization/2020-ventures,2020 Ventures,,USA,CA,SF Bay,San Francisco,angel,11/13/11,2011-11,2011-Q4,2011.0,400000.0,6608
+"/company/alltrails-com",AllTrails,sports,USA,CA,SF Bay,San Francisco,/financial-organization/500-startups,500 Startups,,USA,CA,SF Bay,Mountain View,angel,11/13/11,2011-11,2011-Q4,2011.0,400000.0,6946
+"/company/audiodraft",Audiodraft,music,USA,CA,SF Bay,San Francisco,/financial-organization/500-startups,500 Startups,,USA,CA,SF Bay,Mountain View,venture,7/17/13,2013-07,2013-Q3,2013.0,400000.0,7129
+"/company/astrid",Astrid,social,USA,CA,SF Bay,San Francisco,/company/angelpad,AngelPad,,USA,CA,SF Bay,San Francisco,angel,4/13/12,2012-04,2012-Q2,2012.0,400000.0,310
+"/company/astrid",Astrid,social,USA,CA,SF Bay,San Francisco,/financial-organization/nexus-venture-partners,Nexus Venture Partners,,IND,,Mumbai,Mumbai,angel,4/13/12,2012-04,2012-Q2,2012.0,400000.0,47493
+"/company/auctomatic",Auctomatic,web,USA,CA,SF Bay,San Francisco,/person/paul-buchheit,Paul Buchheit,,,,unknown,,angel,1/1/07,2007-01,2007-Q1,2007.0,400000.0,80062
+"/company/adgrok",AdGrok,advertising,USA,CA,SF Bay,San Francisco,/person/ben-narasin,Ben Narasin,,,,unknown,,angel,3/7/11,2011-03,2011-Q1,2011.0,470000.0,71409
+"/company/adgrok",AdGrok,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/triplepoint-capital,TriplePoint Capital,,USA,CA,SF Bay,Menlo Park,angel,3/7/11,2011-03,2011-Q1,2011.0,470000.0,65282
+"/company/adgrok",AdGrok,advertising,USA,CA,SF Bay,San Francisco,/person/chris-sacca,Chris Sacca,,,,unknown,,angel,3/7/11,2011-03,2011-Q1,2011.0,470000.0,72385
+"/company/adgrok",AdGrok,advertising,USA,CA,SF Bay,San Francisco,/person/russell-siegelman,Russell Siegelman,,,,unknown,,angel,3/7/11,2011-03,2011-Q1,2011.0,470000.0,81588
+"/company/attachments-me",Attachments.me,software,USA,CA,SF Bay,San Francisco,/financial-organization/foundry-group,Foundry Group,,USA,CO,Denver,Boulder,angel,3/2/11,2011-03,2011-Q1,2011.0,500000.0,28348
+"/company/apture",Apture,web,USA,CA,SF Bay,San Francisco,/person/steve-taylor,Steve Taylor,,,,unknown,,angel,7/1/07,2007-07,2007-Q3,2007.0,500000.0,82550
+"/company/apture",Apture,web,USA,CA,SF Bay,San Francisco,/person/paul-maritz,Paul Maritz,,,,unknown,,angel,7/1/07,2007-07,2007-Q3,2007.0,500000.0,80163
+"/company/apture",Apture,web,USA,CA,SF Bay,San Francisco,/person/beau-vrolyk,Beau Vrolyk,,,,unknown,,angel,7/1/07,2007-07,2007-Q3,2007.0,500000.0,71322
+"/company/asseta",Asseta,manufacturing,USA,CA,SF Bay,San Francisco,/financial-organization/beenos-partners,Beenos Partners,,,,unknown,,angel,2/3/14,2014-02,2014-Q1,2014.0,535000.0,14088
+"/company/asseta",Asseta,manufacturing,USA,CA,SF Bay,San Francisco,/financial-organization/ace-and-company,ACE & Company,,CHE,,Geneva,Geneva,angel,2/3/14,2014-02,2014-Q1,2014.0,535000.0,8194
+"/company/asseta",Asseta,manufacturing,USA,CA,SF Bay,San Francisco,/person/matt-huang-2,Matt Huang,,,,unknown,,angel,2/3/14,2014-02,2014-Q1,2014.0,535000.0,78603
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/person/alex-fries,Alex Fries,,,,unknown,,angel,8/1/11,2011-08,2011-Q3,2011.0,565000.0,70356
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/person/mark-kingdon,Mark Kingdon,,,,unknown,,angel,8/1/11,2011-08,2011-Q3,2011.0,565000.0,78358
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/person/greg-vrankovich,Greg Vrankovich,,,,unknown,,angel,8/1/11,2011-08,2011-Q3,2011.0,565000.0,75069
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/person/steve-bennet,Steve Bennet,,,,unknown,,angel,8/1/11,2011-08,2011-Q3,2011.0,565000.0,82453
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/financial-organization/transmedia-capital,Transmedia Capital,,USA,CA,SF Bay,San Francisco,angel,8/1/11,2011-08,2011-Q3,2011.0,565000.0,64751
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/person/anthony-soohoo,Anthony Soohoo,,,,unknown,,angel,8/1/11,2011-08,2011-Q3,2011.0,565000.0,71012
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/financial-organization/sand-hill-angels,Sand Hill Angels,,USA,CA,SF Bay,Sunnyvale,angel,8/1/11,2011-08,2011-Q3,2011.0,565000.0,55983
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/financial-organization/500-startups,500 Startups,,USA,CA,SF Bay,Mountain View,angel,8/1/11,2011-08,2011-Q3,2011.0,565000.0,6929
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/financial-organization/zelkova-ventures,Zelkova Ventures,,USA,NY,New York,New York,angel,8/1/11,2011-08,2011-Q3,2011.0,565000.0,69936
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/person/michael-leeman,Michael Leeman,,,,unknown,,angel,8/1/11,2011-08,2011-Q3,2011.0,565000.0,79005
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/financial-organization/zelkova-ventures,Zelkova Ventures,,USA,NY,New York,New York,angel,8/1/10,2010-08,2010-Q3,2010.0,590000.0,69933
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/person/thomas-mcinerney,Thomas McInerney,,,,unknown,,angel,8/1/10,2010-08,2010-Q3,2010.0,590000.0,82861
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/company/ventures,i/o Ventures,other,USA,CA,SF Bay,San Francisco,angel,8/1/10,2010-08,2010-Q3,2010.0,590000.0,2420
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/financial-organization/seraph-group,Seraph Group,,USA,GA,Atlanta,Atlanta,angel,8/1/10,2010-08,2010-Q3,2010.0,590000.0,57467
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/person/michael-leeman,Michael Leeman,,,,unknown,,angel,8/1/10,2010-08,2010-Q3,2010.0,590000.0,79004
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/financial-organization/sand-hill-angels,Sand Hill Angels,,USA,CA,SF Bay,Sunnyvale,angel,8/1/10,2010-08,2010-Q3,2010.0,590000.0,55981
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/person/anthony-soohoo,Anthony Soohoo,,,,unknown,,angel,8/1/10,2010-08,2010-Q3,2010.0,590000.0,71011
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/person/erik-moore,Erik Moore,,,,unknown,,angel,8/1/10,2010-08,2010-Q3,2010.0,590000.0,74224
+"/company/appstores-com",Appstores.com,software,USA,CA,SF Bay,San Francisco,/person/alfred-lin,Alfred Lin,,,,unknown,,angel,8/1/10,2010-08,2010-Q3,2010.0,590000.0,70563
+"/company/appbistro",Appbistro,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/zelkova-ventures,Zelkova Ventures,,USA,NY,New York,New York,angel,8/13/10,2010-08,2010-Q3,2010.0,600000.0,69920
+"/company/appbistro",Appbistro,mobile,USA,CA,SF Bay,San Francisco,/person/erik-moore,Erik Moore,,,,unknown,,angel,8/13/10,2010-08,2010-Q3,2010.0,600000.0,74221
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/financial-organization/sequoia-capital,Sequoia Capital,,USA,CA,SF Bay,Menlo Park,angel,4/1/09,2009-04,2009-Q2,2009.0,600000.0,57114
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/financial-organization/youniversity-ventures,Youniversity Ventures,,USA,CA,SF Bay,Palo Alto,angel,4/1/09,2009-04,2009-Q2,2009.0,600000.0,69866
+"/company/appbistro",Appbistro,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/500-startups,500 Startups,,USA,CA,SF Bay,Mountain View,angel,8/13/10,2010-08,2010-Q3,2010.0,600000.0,6855
+"/company/appbistro",Appbistro,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/sand-hill-angels,Sand Hill Angels,,USA,CA,SF Bay,Sunnyvale,angel,8/13/10,2010-08,2010-Q3,2010.0,600000.0,55977
+"/company/appbistro",Appbistro,mobile,USA,CA,SF Bay,San Francisco,/person/tom-mcinerney,Tom McInerney,,,,unknown,,angel,8/13/10,2010-08,2010-Q3,2010.0,600000.0,83157
+"/company/ad-infuse",Ad Infuse,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/storm-ventures,Storm Ventures,,USA,CA,SF Bay,Menlo Park,angel,1/1/05,2005-01,2005-Q1,2005.0,600000.0,61113
+"/company/appbistro",Appbistro,mobile,USA,CA,SF Bay,San Francisco,/person/alfred-lin,Alfred Lin,,,,unknown,,angel,8/13/10,2010-08,2010-Q3,2010.0,600000.0,70557
+"/company/appbistro",Appbistro,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/seraph-group,Seraph Group,,USA,GA,Atlanta,Atlanta,angel,8/13/10,2010-08,2010-Q3,2010.0,600000.0,57463
+"/company/aria-retirement-solutions",Aria Retirement Solutions,finance,USA,CA,SF Bay,San Francisco,/financial-organization/polaris-partners,Polaris Partners,,USA,MA,Boston,Waltham,venture,4/1/13,2013-04,2013-Q2,2013.0,650000.0,52352
+"/company/appjet",AppJet,web,USA,CA,SF Bay,San Francisco,/person/paul-buchheit,Paul Buchheit,,,,unknown,,angel,8/1/07,2007-08,2007-Q3,2007.0,700000.0,80066
+"/company/appredeem",AppRedeem,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/bluerun-ventures,BlueRun Ventures,,USA,CA,SF Bay,Menlo Park,angel,6/16/11,2011-06,2011-Q2,2011.0,700000.0,15506
+"/company/appjet",AppJet,web,USA,CA,SF Bay,San Francisco,/person/scott-banister,Scott Banister,,,,unknown,,angel,8/1/07,2007-08,2007-Q3,2007.0,700000.0,81848
+"/company/appjet",AppJet,web,USA,CA,SF Bay,San Francisco,/person/chris-yeh,Chris Yeh,,,,unknown,,angel,8/1/07,2007-08,2007-Q3,2007.0,700000.0,72417
+"/company/appredeem",AppRedeem,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/sv-angel,SV Angel,,USA,CA,SF Bay,San Francisco,angel,6/16/11,2011-06,2011-Q2,2011.0,700000.0,61805
+"/company/appjet",AppJet,web,USA,CA,SF Bay,San Francisco,/person/paul-graham,Paul Graham,,,,unknown,,angel,8/1/07,2007-08,2007-Q3,2007.0,700000.0,80136
+"/company/appjet",AppJet,web,USA,CA,SF Bay,San Francisco,/person/wayne-crosby,Wayne Crosby,,,,unknown,,angel,8/1/07,2007-08,2007-Q3,2007.0,700000.0,83574
+"/company/appjet",AppJet,web,USA,CA,SF Bay,San Francisco,/person/robby-walker,Robby Walker,,,,unknown,,angel,8/1/07,2007-08,2007-Q3,2007.0,700000.0,81136
+"/company/appjet",AppJet,web,USA,CA,SF Bay,San Francisco,/person/seth-goldstein,Seth Goldstein,,,,unknown,,angel,8/1/07,2007-08,2007-Q3,2007.0,700000.0,82089
+"/company/appjet",AppJet,web,USA,CA,SF Bay,San Francisco,/person/sanjeev-singh,Sanjeev Singh,,,,unknown,,angel,8/1/07,2007-08,2007-Q3,2007.0,700000.0,81794
+"/company/aardvark",Aardvark,search,USA,CA,SF Bay,San Francisco,/person/barry-nalebuff,Barry Nalebuff,,,,unknown,,angel,1/1/07,2007-01,2007-Q1,2007.0,750000.0,71296
+"/company/aardvark",Aardvark,search,USA,CA,SF Bay,San Francisco,/financial-organization/harrison-metal-capital,Harrison Metal Capital,,USA,CA,SF Bay,Palo Alto,angel,1/1/07,2007-01,2007-Q1,2007.0,750000.0,32247
+"/company/awayfind",AwayFind,messaging,USA,CA,SF Bay,San Francisco,/person/ben-lilienthal,Ben Lilienthal,,,,unknown,,angel,10/12/11,2011-10,2011-Q4,2011.0,800000.0,71366
+"/company/artify-it",Artify It,design,USA,CA,SF Bay,San Francisco,/financial-organization/quest-ventures,Quest Ventures,,USA,AZ,Phoenix,Phoenix,angel,4/25/12,2012-04,2012-Q2,2012.0,800000.0,53474
+"/company/awayfind",AwayFind,messaging,USA,CA,SF Bay,San Francisco,/financial-organization/500-startups,500 Startups,,USA,CA,SF Bay,Mountain View,angel,10/12/11,2011-10,2011-Q4,2011.0,800000.0,6941
+"/company/artify-it",Artify It,design,USA,CA,SF Bay,San Francisco,/person/peter-thiel,Peter Thiel,,,,unknown,,angel,4/25/12,2012-04,2012-Q2,2012.0,800000.0,80414
+"/company/awayfind",AwayFind,messaging,USA,CA,SF Bay,San Francisco,/financial-organization/cap-ventures,CAP Ventures,,ARG,,Buenos Aires,Buenos Aires,angel,10/12/11,2011-10,2011-Q4,2011.0,800000.0,17069
+"/company/awayfind",AwayFind,messaging,USA,CA,SF Bay,San Francisco,/person/amir-banifatemi,Amir Banifatemi,,,,unknown,,angel,10/12/11,2011-10,2011-Q4,2011.0,800000.0,70666
+"/company/awayfind",AwayFind,messaging,USA,CA,SF Bay,San Francisco,/person/anton-sutton,Anton Sutton,,,,unknown,,angel,10/12/11,2011-10,2011-Q4,2011.0,800000.0,71018
+"/company/artify-it",Artify It,design,USA,CA,SF Bay,San Francisco,/person/ben-ling,Ben Ling,,,,unknown,,angel,4/25/12,2012-04,2012-Q2,2012.0,800000.0,71383
+"/company/artify-it",Artify It,design,USA,CA,SF Bay,San Francisco,/person/joe-dipasquale,Joe DiPasquale,,,,unknown,,angel,4/25/12,2012-04,2012-Q2,2012.0,800000.0,76452
+"/company/alltrails-com",AllTrails,sports,USA,CA,SF Bay,San Francisco,/financial-organization/campventures,CampVentures,,USA,CA,SF Bay,Los Altos,venture,1/11/12,2012-01,2012-Q1,2012.0,990000.0,16769
+"/company/airpr",AirPR,public_relations,USA,CA,SF Bay,San Francisco,/financial-organization/crosslink-capital,Crosslink Capital,,USA,CA,SF Bay,San Francisco,venture,9/25/12,2012-09,2012-Q3,2012.0,1000000.0,20673
+"/company/airpr",AirPR,public_relations,USA,CA,SF Bay,San Francisco,/financial-organization/mohr-davidow-ventures,Mohr Davidow Ventures,,USA,,SF Bay,Menlo Park,venture,9/25/12,2012-09,2012-Q3,2012.0,1000000.0,45139
+"/company/adrocket",AdRocket,advertising,USA,CA,SF Bay,San Francisco,/person/auren-hoffman-2,Auren Hoffman,,,,unknown,,angel,5/15/09,2009-05,2009-Q2,2009.0,1000000.0,71192
+"/company/adrocket",AdRocket,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/javelin-venture-partners,Javelin Venture Partners,,USA,CA,SF Bay,San Francisco,angel,5/15/09,2009-05,2009-Q2,2009.0,1000000.0,38233
+"/company/adrocket",AdRocket,advertising,USA,CA,SF Bay,San Francisco,/person/patrick-mckenna-2,Patrick McKenna,,,,unknown,,angel,5/15/09,2009-05,2009-Q2,2009.0,1000000.0,80024
+"/company/adrocket",AdRocket,advertising,USA,CA,SF Bay,San Francisco,/person/lukasz-gadowski,Lukasz Gadowski,,,,unknown,,angel,5/15/09,2009-05,2009-Q2,2009.0,1000000.0,77990
+"/company/adrocket",AdRocket,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/european-founders-fund,European Founders Fund,,DEU,,Germany - Other,,angel,5/15/09,2009-05,2009-Q2,2009.0,1000000.0,25345
+"/company/airpr",AirPR,public_relations,USA,CA,SF Bay,San Francisco,/financial-organization/500-startups,500 Startups,,USA,CA,SF Bay,Mountain View,venture,9/25/12,2012-09,2012-Q3,2012.0,1000000.0,7016
+"/company/airpr",AirPR,public_relations,USA,CA,SF Bay,San Francisco,/financial-organization/correlation-ventures,Correlation Ventures,,USA,CA,San Diego,San Diego,venture,9/25/12,2012-09,2012-Q3,2012.0,1000000.0,20065
+"/company/adrocket",AdRocket,advertising,USA,CA,SF Bay,San Francisco,/person/oliver-jung,Oliver Jung,,,,unknown,,angel,5/15/09,2009-05,2009-Q2,2009.0,1000000.0,79778
+"/company/alphabet-energy",Alphabet Energy,cleantech,USA,CA,SF Bay,San Francisco,/financial-organization/calcef-clean-energy-angel-fund,CalCEF Clean Energy Angel Fund,,USA,CA,SF Bay,San Francisco,angel,5/3/10,2010-05,2010-Q2,2010.0,1000000.0,16650
+"/company/alphabet-energy",Alphabet Energy,cleantech,USA,CA,SF Bay,San Francisco,/financial-organization/claremont-creek-ventures,Claremont Creek Ventures,,USA,CA,SF Bay,Oakland,angel,5/3/10,2010-05,2010-Q2,2010.0,1000000.0,18789
+"/company/aktana",Aktana,analytics,USA,CA,SF Bay,San Francisco,/financial-organization/starfish-ventures,Starfish Ventures,,AUS,,East Melbourne,East Melbourne,venture,1/8/13,2013-01,2013-Q1,2013.0,1010000.0,60682
+"/company/aktana",Aktana,analytics,USA,CA,SF Bay,San Francisco,/financial-organization/starfish-ventures,Starfish Ventures,,AUS,,East Melbourne,East Melbourne,venture,6/1/12,2012-06,2012-Q2,2012.0,1050000.0,60683
+"/company/appirio",Appirio,enterprise,USA,CA,SF Bay,San Francisco,/person/howard-a-brown,Howard A. Brown,,,,unknown,,series-a,3/13/08,2008-03,2008-Q1,2008.0,1100000.0,75322
+"/company/automattic",Automattic,web,USA,CA,SF Bay,San Francisco,/company/cnetnetworks,CNET Networks,web,USA,CA,SF Bay,San Francisco,series-a,10/1/05,2005-10,2005-Q4,2005.0,1100000.0,1230
+"/company/automattic",Automattic,web,USA,CA,SF Bay,San Francisco,/financial-organization/radar-partners,Radar Partners,,USA,CA,SF Bay,Palo Alto,series-a,10/1/05,2005-10,2005-Q4,2005.0,1100000.0,53657
+"/company/appirio",Appirio,enterprise,USA,CA,SF Bay,San Francisco,/company/salesforce,Salesforce,enterprise,USA,CA,SF Bay,San Francisco,series-a,3/13/08,2008-03,2008-Q1,2008.0,1100000.0,4213
+"/company/automattic",Automattic,web,USA,CA,SF Bay,San Francisco,/financial-organization/polaris-partners,Polaris Partners,,USA,MA,Boston,Waltham,series-a,10/1/05,2005-10,2005-Q4,2005.0,1100000.0,52141
+"/company/automattic",Automattic,web,USA,CA,SF Bay,San Francisco,/person/shelby-bonnie,Shelby Bonnie,,,,unknown,,series-a,10/1/05,2005-10,2005-Q4,2005.0,1100000.0,82182
+"/company/automattic",Automattic,web,USA,CA,SF Bay,San Francisco,/financial-organization/blacksmith-capital,Blacksmith Capital,,USA,CA,SF Bay,Palo Alto,series-a,10/1/05,2005-10,2005-Q4,2005.0,1100000.0,15284
+"/company/automattic",Automattic,web,USA,CA,SF Bay,San Francisco,/person/doug-mackenzie,Doug Mackenzie,,,,unknown,,series-a,10/1/05,2005-10,2005-Q4,2005.0,1100000.0,73820
+"/company/automattic",Automattic,web,USA,CA,SF Bay,San Francisco,/person/kevin-compton,Kevin Compton,,,,unknown,,series-a,10/1/05,2005-10,2005-Q4,2005.0,1100000.0,77479
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/person/adam-d-angelo,Adam D'Angelo,,,,unknown,,angel,4/1/09,2009-04,2009-Q2,2009.0,1200000.0,70157
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/person/mitch-kapor,Mitch Kapor,,,,unknown,,angel,4/1/09,2009-04,2009-Q2,2009.0,1200000.0,79335
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/person/jed-stremel,Jed Stremel,,,,unknown,,angel,4/1/09,2009-04,2009-Q2,2009.0,1200000.0,75957
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/person/owen-van-natta,Owen Van Natta,,,,unknown,,angel,4/1/09,2009-04,2009-Q2,2009.0,1200000.0,79883
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/person/matt-cohler,Matt Cohler,,,,unknown,,angel,4/1/09,2009-04,2009-Q2,2009.0,1200000.0,78572
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/person/peter-thiel,Peter Thiel,,,,unknown,,angel,4/1/09,2009-04,2009-Q2,2009.0,1200000.0,80402
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/person/aditya-agarwal,Aditya Agarwal,,,,unknown,,angel,4/1/09,2009-04,2009-Q2,2009.0,1200000.0,70217
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/person/marc-andreessen,Marc Andreessen,,,,unknown,,angel,4/1/09,2009-04,2009-Q2,2009.0,1200000.0,78088
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/person/ben-horowitz,Ben Horowitz,,,,unknown,,angel,4/1/09,2009-04,2009-Q2,2009.0,1200000.0,71353
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/person/ron-conway,Ron Conway,,,,unknown,,angel,4/1/09,2009-04,2009-Q2,2009.0,1200000.0,81408
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/person/david-jeske,David Jeske,,,,unknown,,angel,4/1/09,2009-04,2009-Q2,2009.0,1200000.0,73246
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/person/sean-parker,Sean Parker,,,,unknown,,angel,4/1/09,2009-04,2009-Q2,2009.0,1200000.0,82016
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/person/joe-green,Joe Green,,,,unknown,,angel,4/1/09,2009-04,2009-Q2,2009.0,1200000.0,76463
+"/company/alt12-apps",Alt12 Apps,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/felicis-ventures,Felicis Ventures,,USA,CA,SF Bay,Palo Alto,angel,4/17/12,2012-04,2012-Q2,2012.0,1260000.0,25804
+"/company/alt12-apps",Alt12 Apps,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/interwest-partners,InterWest Partners,,USA,CA,SF Bay,Menlo Park,angel,4/17/12,2012-04,2012-Q2,2012.0,1260000.0,37193
+"/company/avocado-software",Avocado�,software,USA,CA,SF Bay,San Francisco,/person/baseline-ventures,Baseline Ventures,,,,unknown,,angel,4/1/12,2012-04,2012-Q2,2012.0,1300000.0,71319
+"/company/avocado-software",Avocado�,software,USA,CA,SF Bay,San Francisco,/person/steve-olechowski,Steve Olechowski,,,,unknown,,angel,4/1/12,2012-04,2012-Q2,2012.0,1300000.0,82530
+"/company/avocado-software",Avocado�,software,USA,CA,SF Bay,San Francisco,/financial-organization/general-catalyst-partners,General Catalyst Partners,,USA,MA,Boston,Cambridge,angel,4/1/12,2012-04,2012-Q2,2012.0,1300000.0,29444
+"/company/avocado-software",Avocado�,software,USA,CA,SF Bay,San Francisco,/person/greg-yaitanes,Greg Yaitanes,,,,unknown,,angel,4/1/12,2012-04,2012-Q2,2012.0,1300000.0,75085
+"/company/avocado-software",Avocado�,software,USA,CA,SF Bay,San Francisco,/financial-organization/lightspeed-venture-partners,Lightspeed Venture Partners,,USA,CA,SF Bay,Menlo Park,angel,4/1/12,2012-04,2012-Q2,2012.0,1300000.0,41712
+"/company/adstage",AdStage,advertising,USA,CA,SF Bay,San Francisco,/person/rich-lefurgy-2,Rich LeFurgy,,,,unknown,,angel,3/1/13,2013-03,2013-Q1,2013.0,1400000.0,80923
+"/company/adstage",AdStage,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/double-m-partners,Double M Partners,,,,unknown,,angel,3/1/13,2013-03,2013-Q1,2013.0,1400000.0,22696
+"/company/adstage",AdStage,advertising,USA,CA,SF Bay,San Francisco,/person/owen-van-natta,Owen Van Natta,,,,unknown,,angel,3/1/13,2013-03,2013-Q1,2013.0,1400000.0,79887
+"/company/anyperk",AnyPerk,ecommerce,USA,CA,SF Bay,San Francisco,/person/ben-lewis,Ben Lewis,,,,unknown,,angel,3/11/13,2013-03,2013-Q1,2013.0,1400000.0,71362
+"/company/anyperk",AnyPerk,ecommerce,USA,CA,SF Bay,San Francisco,/financial-organization/digital-garage,Digital Garage,,JPN,,Tokyo,Tokyo,angel,3/11/13,2013-03,2013-Q1,2013.0,1400000.0,22362
+"/company/adstage",AdStage,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/500-startups,500 Startups,,USA,CA,SF Bay,Mountain View,angel,3/1/13,2013-03,2013-Q1,2013.0,1400000.0,7111
+"/company/adstage",AdStage,advertising,USA,CA,SF Bay,San Francisco,/person/john-batelle,John Batelle,,,,unknown,,angel,3/1/13,2013-03,2013-Q1,2013.0,1400000.0,76551
+"/company/adstage",AdStage,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/xg-ventures,XG Ventures,,USA,CA,SF Bay,Palo Alto,angel,3/1/13,2013-03,2013-Q1,2013.0,1400000.0,69618
+"/company/adstage",AdStage,advertising,USA,CA,SF Bay,San Francisco,/person/doug-barry,Doug Barry,,,,unknown,,angel,3/1/13,2013-03,2013-Q1,2013.0,1400000.0,73806
+"/company/anyperk",AnyPerk,ecommerce,USA,CA,SF Bay,San Francisco,/person/shogo-kawada,Shogo Kawada,,,,unknown,,angel,3/11/13,2013-03,2013-Q1,2013.0,1400000.0,82248
+"/company/anyperk",AnyPerk,ecommerce,USA,CA,SF Bay,San Francisco,/person/michael-liou,Michael Liou,,,,unknown,,angel,3/11/13,2013-03,2013-Q1,2013.0,1400000.0,79017
+"/company/adstage",AdStage,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/freestyle-capital,Freestyle Capital,,,,unknown,,angel,3/1/13,2013-03,2013-Q1,2013.0,1400000.0,28591
+"/company/adstage",AdStage,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/digital-garage,Digital Garage,,JPN,,Tokyo,Tokyo,angel,3/1/13,2013-03,2013-Q1,2013.0,1400000.0,22366
+"/company/anyperk",AnyPerk,ecommerce,USA,CA,SF Bay,San Francisco,/financial-organization/cyberagent,CyberAgent,,JPN,,Tokyo,Tokyo,angel,3/11/13,2013-03,2013-Q1,2013.0,1400000.0,20994
+"/company/adstage",AdStage,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/quest-venture-partners,Quest Venture Partners,,USA,CA,SF Bay,Menlo Park,angel,3/1/13,2013-03,2013-Q1,2013.0,1400000.0,53464
+"/company/adstage",AdStage,advertising,USA,CA,SF Bay,San Francisco,/person/mark-mullen-2,Mark Mullen,,,,unknown,,angel,3/1/13,2013-03,2013-Q1,2013.0,1400000.0,78388
+"/company/adstage",AdStage,advertising,USA,CA,SF Bay,San Francisco,/person/james-patterson,Jim Patterson,,,,unknown,,angel,3/1/13,2013-03,2013-Q1,2013.0,1400000.0,76361
+"/company/adstage",AdStage,advertising,USA,CA,SF Bay,San Francisco,/person/stewart-alsop,Stewart Alsop,,,,unknown,,angel,3/1/13,2013-03,2013-Q1,2013.0,1400000.0,82586
+"/company/adku",Adku,software,USA,CA,SF Bay,San Francisco,/financial-organization/greylock,Greylock Partners,,USA,CA,SF Bay,Menlo Park,series-a,12/9/10,2010-12,2010-Q4,2010.0,1500000.0,31566
+"/company/adku",Adku,software,USA,CA,SF Bay,San Francisco,/financial-organization/battery-ventures,Battery Ventures,,USA,CA,SF Bay,Menlo Park,series-a,12/9/10,2010-12,2010-Q4,2010.0,1500000.0,13539
+"/company/adku",Adku,software,USA,CA,SF Bay,San Francisco,/company/angelpad,AngelPad,,USA,CA,SF Bay,San Francisco,series-a,12/9/10,2010-12,2010-Q4,2010.0,1500000.0,345
+"/company/adku",Adku,software,USA,CA,SF Bay,San Francisco,/financial-organization/true-ventures,True Ventures,,USA,CA,SF Bay,Palo Alto,series-a,12/9/10,2010-12,2010-Q4,2010.0,1500000.0,65525
+"/company/adku",Adku,software,USA,CA,SF Bay,San Francisco,/financial-organization/xg-ventures,XG Ventures,,USA,CA,SF Bay,Palo Alto,series-a,12/9/10,2010-12,2010-Q4,2010.0,1500000.0,69636
+"/company/academia-edu",Academia.edu,social,USA,CA,SF Bay,San Francisco,/person/mark-shuttleworth,Mark Shuttleworth,,,,unknown,,series-a,4/28/10,2010-04,2010-Q2,2010.0,1600000.0,78419
+"/company/academia-edu",Academia.edu,social,USA,CA,SF Bay,San Francisco,/person/thomas-lehrman,Thomas D. Lehrman,,,,unknown,,series-a,4/28/10,2010-04,2010-Q2,2010.0,1600000.0,82809
+"/company/academia-edu",Academia.edu,social,USA,CA,SF Bay,San Francisco,/person/rupert-pennant-rea,Rupert Pennant-Rea,,,,unknown,,series-a,4/28/10,2010-04,2010-Q2,2010.0,1600000.0,81556
+"/company/academia-edu",Academia.edu,social,USA,CA,SF Bay,San Francisco,/financial-organization/spark-ventures,Spark Ventures,,GBR,,London,London,series-a,4/28/10,2010-04,2010-Q2,2010.0,1600000.0,60166
+"/company/academia-edu",Academia.edu,social,USA,CA,SF Bay,San Francisco,/company/howzatmedia,HOWZAT media,web,GBR,,London,London,series-a,4/28/10,2010-04,2010-Q2,2010.0,1600000.0,2378
+"/company/apiary",Apiary,software,USA,CA,SF Bay,San Francisco,/financial-organization/credo-ventures,Credo Ventures,,CZE,,Prague,Prague 5,series-a,9/17/13,2013-09,2013-Q3,2013.0,1630000.0,20440
+"/company/apiary",Apiary,software,USA,CA,SF Bay,San Francisco,/financial-organization/xg-ventures,XG Ventures,,USA,CA,SF Bay,Palo Alto,series-a,9/17/13,2013-09,2013-Q3,2013.0,1630000.0,69623
+"/company/apiary",Apiary,software,USA,CA,SF Bay,San Francisco,/financial-organization/baseline-ventures,Baseline Ventures,,USA,CA,SF Bay,San Francisco,series-a,9/17/13,2013-09,2013-Q3,2013.0,1630000.0,13278
+"/company/apiary",Apiary,software,USA,CA,SF Bay,San Francisco,/financial-organization/flybridge-capital,Flybridge Capital Partners,,USA,MA,Boston,Boston,series-a,9/17/13,2013-09,2013-Q3,2013.0,1630000.0,27304
+"/company/appurify",Appurify,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/felicis-ventures,Felicis Ventures,,USA,CA,SF Bay,Palo Alto,series-a,4/1/12,2012-04,2012-Q2,2012.0,1750000.0,25857
+"/company/appurify",Appurify,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/google-ventures,Google Ventures,,USA,CA,SF Bay,Mountain View,series-a,4/1/12,2012-04,2012-Q2,2012.0,1750000.0,30714
+"/company/appurify",Appurify,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/inspovation-ventures,Inspovation Ventures,,,,unknown,,series-a,4/1/12,2012-04,2012-Q2,2012.0,1750000.0,36213
+"/company/appurify",Appurify,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/foundation-capital,Foundation Capital,,USA,CA,SF Bay,Menlo Park,series-a,4/1/12,2012-04,2012-Q2,2012.0,1750000.0,27891
+"/company/appurify",Appurify,mobile,USA,CA,SF Bay,San Francisco,/person/jay-jamison,Jay Jamison,,,,unknown,,series-a,4/1/12,2012-04,2012-Q2,2012.0,1750000.0,75900
+"/company/appurify",Appurify,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/data-collective,Data Collective,,USA,CA,SF Bay,San Francisco,series-a,4/1/12,2012-04,2012-Q2,2012.0,1750000.0,21417
+"/company/appurify",Appurify,mobile,USA,CA,SF Bay,San Francisco,/person/raymond-tonsing,Raymond Tonsing,,,,unknown,,series-a,4/1/12,2012-04,2012-Q2,2012.0,1750000.0,80801
+"/company/appurify",Appurify,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/webb-investment-network,Webb Investment Network,,,,unknown,,series-a,4/1/12,2012-04,2012-Q2,2012.0,1750000.0,68812
+"/company/appurify",Appurify,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/radar-partners,Radar Partners,,USA,CA,SF Bay,Palo Alto,series-a,4/1/12,2012-04,2012-Q2,2012.0,1750000.0,53673
+"/company/august",August,hardware,USA,CA,SF Bay,San Francisco,/person/tony-conrad,Tony Conrad,,,,unknown,,series-a,1/1/13,2013-01,2013-Q1,2013.0,2000000.0,83232
+"/company/advercar",AdverCar,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/canaan-partners-2,Canaan Partners,,USA,CA,SF Bay,Menlo Park,series-a,10/30/12,2012-10,2012-Q4,2012.0,2000000.0,16957
+"/company/attachments-me",Attachments.me,software,USA,CA,SF Bay,San Francisco,/financial-organization/foundry-group,Foundry Group,,USA,CO,Denver,Boulder,series-a,4/3/12,2012-04,2012-Q2,2012.0,2000000.0,28374
+"/company/advercar",AdverCar,advertising,USA,CA,SF Bay,San Francisco,/company/new-orleans-startup-fund,New Orleans Startup Fund,,,,unknown,,series-a,10/30/12,2012-10,2012-Q4,2012.0,2000000.0,3455
+"/company/august",August,hardware,USA,CA,SF Bay,San Francisco,/person/david-spector,David Spector,,,,unknown,,series-a,1/1/13,2013-01,2013-Q1,2013.0,2000000.0,73399
+"/company/august",August,hardware,USA,CA,SF Bay,San Francisco,/person/jay-adelson,Jay Adelson,,,,unknown,,series-a,1/1/13,2013-01,2013-Q1,2013.0,2000000.0,75881
+"/company/agile-md",AgileMD,medical,USA,CA,SF Bay,San Francisco,/company/rock-health,Rock Health,health,USA,CA,SF Bay,San Francisco,series-a,6/14/12,2012-06,2012-Q2,2012.0,2000000.0,4051
+"/company/august",August,hardware,USA,CA,SF Bay,San Francisco,/person/mike-marquez,Mike Marquez,,,,unknown,,series-a,1/1/13,2013-01,2013-Q1,2013.0,2000000.0,79243
+"/company/advercar",AdverCar,advertising,USA,CA,SF Bay,San Francisco,/person/jit-saxena,Jit Saxena,,,,unknown,,series-a,10/30/12,2012-10,2012-Q4,2012.0,2000000.0,76392
+"/company/alphabet-energy",Alphabet Energy,cleantech,USA,CA,SF Bay,San Francisco,/financial-organization/hercules-technology-growth,Hercules Technology Growth Capital,,USA,CA,SF Bay,Palo Alto,other,3/8/12,2012-03,2012-Q1,2012.0,2000000.0,32757
+"/company/august",August,hardware,USA,CA,SF Bay,San Francisco,/person/matt-mullenweg,Matt Mullenweg,,,,unknown,,series-a,1/1/13,2013-01,2013-Q1,2013.0,2000000.0,78644
+"/company/august",August,hardware,USA,CA,SF Bay,San Francisco,/person/zack-bogue,Zack Bogue,,,,unknown,,series-a,1/1/13,2013-01,2013-Q1,2013.0,2000000.0,83856
+"/company/august",August,hardware,USA,CA,SF Bay,San Francisco,/financial-organization/softtech-vc,SoftTech VC,,USA,CA,SF Bay,Palo Alto,series-a,1/1/13,2013-01,2013-Q1,2013.0,2000000.0,59793
+"/company/advercar",AdverCar,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/tie-angels,TiE Angels,,USA,CA,SF Bay,Santa Clara,series-a,10/30/12,2012-10,2012-Q4,2012.0,2000000.0,64237
+"/company/august",August,hardware,USA,CA,SF Bay,San Francisco,/person/matt-ocko,Matt Ocko,,,,unknown,,series-a,1/1/13,2013-01,2013-Q1,2013.0,2000000.0,78665
+"/company/advercar",AdverCar,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/branford-castle-private-equity,Branford Castle Private Equity,,USA,NY,New York,New York,series-a,10/30/12,2012-10,2012-Q4,2012.0,2000000.0,16073
+"/company/august",August,hardware,USA,CA,SF Bay,San Francisco,/financial-organization/cowboy-ventures,Cowboy Ventures,,USA,CA,SF Bay,Palo Alto,series-a,1/1/13,2013-01,2013-Q1,2013.0,2000000.0,20213
+"/company/august",August,hardware,USA,CA,SF Bay,San Francisco,/person/rick-marini,Rick Marini,,,,unknown,,series-a,1/1/13,2013-01,2013-Q1,2013.0,2000000.0,81041
+"/company/august",August,hardware,USA,CA,SF Bay,San Francisco,/person/nicholas-negroponte,Nicholas Negroponte,,,,unknown,,series-a,1/1/13,2013-01,2013-Q1,2013.0,2000000.0,79600
+"/company/advercar",AdverCar,advertising,USA,CA,SF Bay,San Francisco,/company/1-800-flowers-com,1-800-FLOWERS.COM,ecommerce,USA,NY,New York,New York,series-a,10/30/12,2012-10,2012-Q4,2012.0,2000000.0,2
+"/company/adynxx",Adynxx,biotech,USA,CA,SF Bay,San Francisco,/financial-organization/domain-associates,Domain Associates,,USA,NJ,Princeton,Princeton,private-equity,7/1/12,2012-07,2012-Q3,2012.0,2000000.0,22654
+"/company/aktana",Aktana,analytics,USA,CA,SF Bay,San Francisco,/financial-organization/starfish-ventures,Starfish Ventures,,AUS,,East Melbourne,East Melbourne,series-a,1/4/13,2013-01,2013-Q1,2013.0,2060000.0,60681
+"/company/acendi-interactive",Acendi Interactive,security,USA,CA,SF Bay,San Francisco,/company/lexisnexis,LexisNexis,software,USA,NY,Albany,Albany,series-b,1/9/09,2009-01,2009-Q1,2009.0,2090000.0,2888
+"/company/apcera",Apcera,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/andreessen-horowitz,Andreessen Horowitz,,USA,CA,SF Bay,Menlo Park,series-a,5/8/12,2012-05,2012-Q2,2012.0,2200000.0,10179
+"/company/apcera",Apcera,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/kleiner-perkins-caufield-byers,Kleiner Perkins Caufield & Byers,,USA,CA,SF Bay,Menlo Park,series-a,5/8/12,2012-05,2012-Q2,2012.0,2200000.0,40042
+"/company/apcera",Apcera,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/data-collective,Data Collective,,USA,CA,SF Bay,San Francisco,series-a,5/8/12,2012-05,2012-Q2,2012.0,2200000.0,21367
+"/company/apcera",Apcera,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/true-ventures,True Ventures,,USA,CA,SF Bay,Palo Alto,series-a,5/8/12,2012-05,2012-Q2,2012.0,2200000.0,65472
+"/company/addvocate",Addvocate,enterprise,USA,CA,SF Bay,San Francisco,/person/kyle-sollenberger,Kyle Sollenberger,,,,unknown,,series-a,7/24/13,2013-07,2013-Q3,2013.0,2390000.0,77699
+"/company/addvocate",Addvocate,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/rogers-venture-partners,Rogers Venture Partners,,USA,CA,SF Bay,Palo Alto,series-a,7/24/13,2013-07,2013-Q3,2013.0,2390000.0,55107
+"/company/addvocate",Addvocate,enterprise,USA,CA,SF Bay,San Francisco,/person/francine-hardaway,Francine Hardaway,,,,unknown,,series-a,7/24/13,2013-07,2013-Q3,2013.0,2390000.0,74475
+"/company/addvocate",Addvocate,enterprise,USA,CA,SF Bay,San Francisco,/person/yee-lee,Yee Lee,,,,unknown,,series-a,7/24/13,2013-07,2013-Q3,2013.0,2390000.0,83722
+"/company/addvocate",Addvocate,enterprise,USA,CA,SF Bay,San Francisco,/person/jay-baer,Jay Baer,,,,unknown,,series-a,7/24/13,2013-07,2013-Q3,2013.0,2390000.0,75885
+"/company/addvocate",Addvocate,enterprise,USA,CA,SF Bay,San Francisco,/person/jesse-engle,Jesse Engle,,,,unknown,,series-a,7/24/13,2013-07,2013-Q3,2013.0,2390000.0,76253
+"/company/addvocate",Addvocate,enterprise,USA,CA,SF Bay,San Francisco,/person/scott-banister,Scott Banister,,,,unknown,,series-a,7/24/13,2013-07,2013-Q3,2013.0,2390000.0,81891
+"/company/addvocate",Addvocate,enterprise,USA,CA,SF Bay,San Francisco,/person/karen-riley,Karen Riley,,,,unknown,,series-a,7/24/13,2013-07,2013-Q3,2013.0,2390000.0,77255
+"/company/addvocate",Addvocate,enterprise,USA,CA,SF Bay,San Francisco,/person/todd-richardson,Todd Richardson,,,,unknown,,series-a,7/24/13,2013-07,2013-Q3,2013.0,2390000.0,83059
+"/company/addvocate",Addvocate,enterprise,USA,CA,SF Bay,San Francisco,/person/suraj-rajwani,Suraj (Luke) Rajwani,,,,unknown,,series-a,7/24/13,2013-07,2013-Q3,2013.0,2390000.0,82648
+"/company/addvocate",Addvocate,enterprise,USA,CA,SF Bay,San Francisco,/person/tim-kopp,Tim Kopp,,,,unknown,,series-a,7/24/13,2013-07,2013-Q3,2013.0,2390000.0,82925
+"/company/apportable",Apportable,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/google-ventures,Google Ventures,,USA,CA,SF Bay,Mountain View,series-a,7/1/13,2013-07,2013-Q3,2013.0,2400000.0,30684
+"/company/apportable",Apportable,mobile,USA,CA,SF Bay,San Francisco,/company/salesforce,Salesforce,enterprise,USA,CA,SF Bay,San Francisco,series-a,7/1/13,2013-07,2013-Q3,2013.0,2400000.0,4242
+"/company/adeze",Adeze,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/maveron,Maveron,,USA,WA,Seattle,Seattle,series-c+,4/10/08,2008-04,2008-Q2,2008.0,2500000.0,43210
+"/company/adeze",Adeze,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/mep-associates,MEP Associates,,USA,WI,Eau Claire,Eau Claire,series-c+,4/10/08,2008-04,2008-Q2,2008.0,2500000.0,43936
+"/company/app-net",App.net,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/andreessen-horowitz,Andreessen Horowitz,,USA,CA,SF Bay,Menlo Park,series-a,8/15/13,2013-08,2013-Q3,2013.0,2500000.0,10281
+"/company/airstone-labs",Airstone Labs,,USA,CA,SF Bay,San Francisco,/financial-organization/lifeline-ventures,Lifeline Ventures,,FIN,,Helsinki,Helsinki,private-equity,1/1/13,2013-01,2013-Q1,2013.0,2511000.0,41376
+"/company/airstone-labs",Airstone Labs,,USA,CA,SF Bay,San Francisco,/financial-organization/true-ventures,True Ventures,,USA,CA,SF Bay,Palo Alto,private-equity,1/1/13,2013-01,2013-Q1,2013.0,2511000.0,65534
+"/company/airstone-labs",Airstone Labs,,USA,CA,SF Bay,San Francisco,/financial-organization/borealis-ventures,Borealis Ventures,,USA,NH,Hanover,Hanover,private-equity,1/1/13,2013-01,2013-Q1,2013.0,2511000.0,15759
+"/company/adeze",Adeze,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/maveron,Maveron,,USA,WA,Seattle,Seattle,series-b,6/21/06,2006-06,2006-Q2,2006.0,3000000.0,43217
+"/company/appmesh",AppMesh,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/opus-capital,Opus Capital,,USA,CA,SF Bay,Menlo Park,series-a,9/4/13,2013-09,2013-Q3,2013.0,3000000.0,49915
+"/company/appmesh",AppMesh,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/tdf-ventures,TDF Ventures,,,,unknown,,series-a,9/4/13,2013-09,2013-Q3,2013.0,3000000.0,62727
+"/company/alivecor",AliveCor,health,USA,CA,SF Bay,San Francisco,/financial-organization/qualcomm-ventures,Qualcomm Ventures,,USA,CA,San Diego,San Diego,series-a,8/2/11,2011-08,2011-Q3,2011.0,3000000.0,53306
+"/company/autonomic-technologies",Autonomic Technologies,medical,USA,CA,SF Bay,San Francisco,/financial-organization/kleiner-perkins-caufield-byers,Kleiner Perkins Caufield & Byers,,USA,CA,SF Bay,Menlo Park,series-a,1/14/08,2008-01,2008-Q1,2008.0,3000000.0,39818
+"/company/alivecor",AliveCor,health,USA,CA,SF Bay,San Francisco,/financial-organization/oklahoma-life-science-fund,Oklahoma Life Science Fund,,USA,OK,Tulsa,Tulsa,series-a,8/2/11,2011-08,2011-Q3,2011.0,3000000.0,49517
+"/company/appmesh",AppMesh,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/interwest-partners,InterWest Partners,,USA,CA,SF Bay,Menlo Park,series-a,9/4/13,2013-09,2013-Q3,2013.0,3000000.0,37232
+"/company/alivecor",AliveCor,health,USA,CA,SF Bay,San Francisco,/financial-organization/burrill-co,Burrill & Company,,USA,CA,SF Bay,San Francisco,series-a,8/2/11,2011-08,2011-Q3,2011.0,3000000.0,16436
+"/company/alter-eco",Alter Eco,,USA,CA,SF Bay,San Francisco,/financial-organization/good-capital,Good Capital,,USA,CA,SF Bay,San Francisco,venture,7/1/12,2012-07,2012-Q3,2012.0,3050000.0,30481
+"/company/alter-eco",Alter Eco,,USA,CA,SF Bay,San Francisco,/financial-organization/renewal-partners,Renewal Partners,,,,unknown,,venture,7/1/12,2012-07,2012-Q3,2012.0,3050000.0,54432
+"/company/appdirect",AppDirect,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/stingray-digital,Stingray Digital,,CAN,,Montreal,Montr_al,series-a,4/28/11,2011-04,2011-Q2,2011.0,3250000.0,61071
+"/company/appdirect",AppDirect,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/inovia-capital,iNovia Capital,,CAN,,Montreal,Montreal,series-a,4/28/11,2011-04,2011-Q2,2011.0,3250000.0,36046
+"/company/aruspex",Aruspex,software,USA,CA,SF Bay,San Francisco,/financial-organization/starfish-ventures,Starfish Ventures,,AUS,,East Melbourne,East Melbourne,series-a,6/10/08,2008-06,2008-Q2,2008.0,3770000.0,60654
+"/company/adroll-semantic-sugar-inc",AdRoll,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/floodgate,FLOODGATE,,USA,CA,SF Bay,Palo Alto,series-a,9/16/08,2008-09,2008-Q3,2008.0,4000000.0,27044
+"/company/adroll-semantic-sugar-inc",AdRoll,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/accel-partners,Accel Partners,,USA,CA,SF Bay,Palo Alto,series-a,9/16/08,2008-09,2008-Q3,2008.0,4000000.0,7612
+"/company/aria-systems",Aria Systems,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/hummer-winblad-venture-partners,Hummer Winblad Venture Partners,,USA,CA,SF Bay,San Francisco,series-a,11/7/07,2007-11,2007-Q4,2007.0,4000000.0,33718
+"/company/adroll-semantic-sugar-inc",AdRoll,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/merus-capital,Merus Capital,,USA,CA,SF Bay,Palo Alto,series-a,9/16/08,2008-09,2008-Q3,2008.0,4000000.0,44198
+"/company/adroll-semantic-sugar-inc",AdRoll,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/pilot-group,Pilot Group,,USA,NY,New York,New York,series-a,9/16/08,2008-09,2008-Q3,2008.0,4000000.0,51611
+"/company/aria-retirement-solutions",Aria Retirement Solutions,finance,USA,CA,SF Bay,San Francisco,/financial-organization/polaris-partners,Polaris Partners,,USA,MA,Boston,Waltham,venture,2/3/12,2012-02,2012-Q1,2012.0,4000000.0,52310
+"/company/adroll-semantic-sugar-inc",AdRoll,advertising,USA,CA,SF Bay,San Francisco,/person/bill-trenchard,Bill Trenchard,,,,unknown,,series-a,9/16/08,2008-09,2008-Q3,2008.0,4000000.0,71584
+"/company/adroll-semantic-sugar-inc",AdRoll,advertising,USA,CA,SF Bay,San Francisco,/person/james-joaquin,James Joaquin,,,,unknown,,series-a,9/16/08,2008-09,2008-Q3,2008.0,4000000.0,75632
+"/company/adroll-semantic-sugar-inc",AdRoll,advertising,USA,CA,SF Bay,San Francisco,/person/jonah-goodhart,Jonah Goodhart,,,,unknown,,series-a,9/16/08,2008-09,2008-Q3,2008.0,4000000.0,76804
+"/company/adroll-semantic-sugar-inc",AdRoll,advertising,USA,CA,SF Bay,San Francisco,/person/max-levchin,Max Levchin,,,,unknown,,series-a,9/16/08,2008-09,2008-Q3,2008.0,4000000.0,78743
+"/company/adroll-semantic-sugar-inc",AdRoll,advertising,USA,CA,SF Bay,San Francisco,/person/peter-thiel,Peter Thiel,,,,unknown,,series-a,9/16/08,2008-09,2008-Q3,2008.0,4000000.0,80397
+"/company/apture",Apture,web,USA,CA,SF Bay,San Francisco,/financial-organization/clearstone-venture-partners,Clearstone Venture Partners,,USA,CA,Los Angeles,Santa Monica,series-a,3/17/09,2009-03,2009-Q1,2009.0,4100000.0,18967
+"/company/allvoices",Allvoices,news,USA,CA,SF Bay,San Francisco,/financial-organization/vantagepoint-capital-partners,VantagePoint Capital Partners,,USA,CA,SF Bay,San Bruno,venture,1/26/10,2010-01,2010-Q1,2010.0,4225500.0,66777
+"/company/appurify",Appurify,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/data-collective,Data Collective,,USA,CA,SF Bay,San Francisco,series-a,5/28/13,2013-05,2013-Q2,2013.0,4500000.0,21401
+"/company/appurify",Appurify,mobile,USA,CA,SF Bay,San Francisco,/person/raymond-tonsing,Raymond Tonsing,,,,unknown,,series-a,5/28/13,2013-05,2013-Q2,2013.0,4500000.0,80797
+"/company/appurify",Appurify,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/felicis-ventures,Felicis Ventures,,USA,CA,SF Bay,Palo Alto,series-a,5/28/13,2013-05,2013-Q2,2013.0,4500000.0,25840
+"/company/appurify",Appurify,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/foundation-capital,Foundation Capital,,USA,CA,SF Bay,Menlo Park,series-a,5/28/13,2013-05,2013-Q2,2013.0,4500000.0,27871
+"/company/appurify",Appurify,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/radar-partners,Radar Partners,,USA,CA,SF Bay,Palo Alto,series-a,5/28/13,2013-05,2013-Q2,2013.0,4500000.0,53671
+"/company/appurify",Appurify,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/google-ventures,Google Ventures,,USA,CA,SF Bay,Mountain View,series-a,5/28/13,2013-05,2013-Q2,2013.0,4500000.0,30675
+"/company/appurify",Appurify,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/webb-investment-network,Webb Investment Network,,,,unknown,,series-a,5/28/13,2013-05,2013-Q2,2013.0,4500000.0,68784
+"/company/appurify",Appurify,mobile,USA,CA,SF Bay,San Francisco,/person/jay-jamison,Jay Jamison,,,,unknown,,series-a,5/28/13,2013-05,2013-Q2,2013.0,4500000.0,75899
+"/company/appurify",Appurify,mobile,USA,CA,SF Bay,San Francisco,/person/abraham-elias,Abraham Elias,,,,unknown,,series-a,5/28/13,2013-05,2013-Q2,2013.0,4500000.0,70144
+"/company/academia-edu",Academia.edu,social,USA,CA,SF Bay,San Francisco,/financial-organization/spark-capital,Spark Capital,,USA,MA,Boston,Boston,series-a,11/30/11,2011-11,2011-Q4,2011.0,4500000.0,60092
+"/company/academia-edu",Academia.edu,social,USA,CA,SF Bay,San Francisco,/financial-organization/true-ventures,True Ventures,,USA,CA,SF Bay,Palo Alto,series-a,11/30/11,2011-11,2011-Q4,2011.0,4500000.0,65456
+"/company/achievers",Achievers,software,USA,CA,SF Bay,San Francisco,/financial-organization/relay-ventures,Relay Ventures,,USA,CA,SF Bay,Menlo Park,series-a,7/31/08,2008-07,2008-Q3,2008.0,4700000.0,54279
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/financial-organization/felicis-ventures,Felicis Ventures,,USA,CA,SF Bay,Palo Alto,series-a,4/25/12,2012-04,2012-Q2,2012.0,5000000.0,25805
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/financial-organization/charles-river-ventures,Charles River Ventures,,USA,MA,Boston,Cambridge,series-a,4/25/12,2012-04,2012-Q2,2012.0,5000000.0,18202
+"/company/adura-technologies",Adura Technologies,cleantech,USA,CA,SF Bay,San Francisco,/financial-organization/claremont-creek-ventures,Claremont Creek Ventures,,USA,CA,SF Bay,Oakland,series-a,10/16/08,2008-10,2008-Q4,2008.0,5000000.0,18785
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/financial-organization/expansion-venture-capital,Expansion Venture Capital,,USA,NY,New York,New York,series-a,4/25/12,2012-04,2012-Q2,2012.0,5000000.0,25521
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/financial-organization/lightbank,Lightbank,,USA,IL,Chicago,Chicago,series-a,4/25/12,2012-04,2012-Q2,2012.0,5000000.0,41408
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/financial-organization/transmedia-capital,Transmedia Capital,,USA,CA,SF Bay,San Francisco,series-a,4/25/12,2012-04,2012-Q2,2012.0,5000000.0,64755
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/company/tencent,Tencent,web,CHN,,Shenzhen,Shenzhen,series-a,4/25/12,2012-04,2012-Q2,2012.0,5000000.0,5319
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/financial-organization/andreessen-horowitz,Andreessen Horowitz,,USA,CA,SF Bay,Menlo Park,series-a,4/25/12,2012-04,2012-Q2,2012.0,5000000.0,10171
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/financial-organization/crosslink-capital,Crosslink Capital,,USA,CA,SF Bay,San Francisco,series-a,4/25/12,2012-04,2012-Q2,2012.0,5000000.0,20664
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/financial-organization/atlas-venture,Atlas Venture,,USA,MA,Boston,Cambridge,series-a,4/25/12,2012-04,2012-Q2,2012.0,5000000.0,11724
+"/company/ad-infuse",Ad Infuse,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/comventures,ComVentures,,USA,,TBD,,series-a,6/1/06,2006-06,2006-Q2,2006.0,5000000.0,19673
+"/company/aktana",Aktana,analytics,USA,CA,SF Bay,San Francisco,/financial-organization/starfish-ventures,Starfish Ventures,,AUS,,East Melbourne,East Melbourne,series-a,12/1/11,2011-12,2011-Q4,2011.0,5000000.0,60678
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/company/y-combinator,Y Combinator,finance,USA,CA,SF Bay,Mountain View,series-a,4/25/12,2012-04,2012-Q2,2012.0,5000000.0,6139
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/company/salesforce,Salesforce,enterprise,USA,CA,SF Bay,San Francisco,series-a,4/25/12,2012-04,2012-Q2,2012.0,5000000.0,4229
+"/company/apcera",Apcera,enterprise,USA,CA,SF Bay,San Francisco,/company/rakuten,Rakuten,web,JPN,,Tokyo,Tokyo,series-a,7/8/13,2013-07,2013-Q3,2013.0,5000000.0,3929
+"/company/arch-rock-corporationarch-rock-corporation",Arch Rock Corporation,software,USA,CA,SF Bay,San Francisco,/financial-organization/intel-capital,Intel Capital,,USA,CA,SF Bay,Santa Clara,series-a,10/1/05,2005-10,2005-Q4,2005.0,5000000.0,36611
+"/company/arch-rock-corporationarch-rock-corporation",Arch Rock Corporation,software,USA,CA,SF Bay,San Francisco,/financial-organization/shasta-ventures,Shasta Ventures,,USA,CA,SF Bay,Menlo Park,series-a,10/1/05,2005-10,2005-Q4,2005.0,5000000.0,57832
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/financial-organization/greylock,Greylock Partners,,USA,CA,SF Bay,Menlo Park,series-a,4/25/12,2012-04,2012-Q2,2012.0,5000000.0,31491
+"/company/ad-infuse",Ad Infuse,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/storm-ventures,Storm Ventures,,USA,CA,SF Bay,Menlo Park,series-a,6/1/06,2006-06,2006-Q2,2006.0,5000000.0,61112
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/person/ryan-allis,Ryan Allis,,,,unknown,,series-a,4/25/12,2012-04,2012-Q2,2012.0,5000000.0,81598
+"/company/adura-technologies",Adura Technologies,cleantech,USA,CA,SF Bay,San Francisco,/financial-organization/vantagepoint-capital-partners,VantagePoint Capital Partners,,USA,CA,SF Bay,San Bruno,series-a,10/16/08,2008-10,2008-Q4,2008.0,5000000.0,66779
+"/company/apcera",Apcera,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/true-ventures,True Ventures,,USA,CA,SF Bay,Palo Alto,series-a,7/8/13,2013-07,2013-Q3,2013.0,5000000.0,65515
+"/company/arch-rock-corporationarch-rock-corporation",Arch Rock Corporation,software,USA,CA,SF Bay,San Francisco,/financial-organization/new-enterprise-associates,New Enterprise Associates,,USA,CA,SF Bay,Menlo Park,series-a,10/1/05,2005-10,2005-Q4,2005.0,5000000.0,46670
+"/company/apcera",Apcera,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/kleiner-perkins-caufield-byers,Kleiner Perkins Caufield & Byers,,USA,CA,SF Bay,Menlo Park,series-a,7/8/13,2013-07,2013-Q3,2013.0,5000000.0,40128
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/financial-organization/sv-angel,SV Angel,,USA,CA,SF Bay,San Francisco,series-a,4/25/12,2012-04,2012-Q2,2012.0,5000000.0,61896
+"/company/ark",Ark,search,USA,CA,SF Bay,San Francisco,/financial-organization/intel-capital,Intel Capital,,USA,CA,SF Bay,Santa Clara,series-a,4/25/12,2012-04,2012-Q2,2012.0,5000000.0,36747
+"/company/aardvark",Aardvark,search,USA,CA,SF Bay,San Francisco,/financial-organization/baseline-ventures,Baseline Ventures,,USA,CA,SF Bay,San Francisco,series-a,10/1/08,2008-10,2008-Q4,2008.0,5250000.0,13202
+"/company/aardvark",Aardvark,search,USA,CA,SF Bay,San Francisco,/person/shervin-pishevar,Shervin Pishevar,,,,unknown,,series-a,10/1/08,2008-10,2008-Q4,2008.0,5250000.0,82201
+"/company/aardvark",Aardvark,search,USA,CA,SF Bay,San Francisco,/financial-organization/august-capital,August Capital,,USA,CA,SF Bay,Menlo Park,series-a,10/1/08,2008-10,2008-Q4,2008.0,5250000.0,11913
+"/company/aardvark",Aardvark,search,USA,CA,SF Bay,San Francisco,/financial-organization/harrison-metal-capital,Harrison Metal Capital,,USA,CA,SF Bay,Palo Alto,series-a,10/1/08,2008-10,2008-Q4,2008.0,5250000.0,32254
+"/company/aardvark",Aardvark,search,USA,CA,SF Bay,San Francisco,/financial-organization/sv-angel,SV Angel,,USA,CA,SF Bay,San Francisco,series-a,10/1/08,2008-10,2008-Q4,2008.0,5250000.0,61672
+"/company/aardvark",Aardvark,search,USA,CA,SF Bay,San Francisco,/person/auren-hoffman-2,Auren Hoffman,,,,unknown,,series-a,10/1/08,2008-10,2008-Q4,2008.0,5250000.0,71194
+"/company/appdynamics",AppDynamics,software,USA,CA,SF Bay,San Francisco,/financial-organization/lightspeed-venture-partners,Lightspeed Venture Partners,,USA,CA,SF Bay,Menlo Park,series-a,1/1/08,2008-01,2008-Q1,2008.0,5500000.0,41638
+"/company/appdynamics",AppDynamics,software,USA,CA,SF Bay,San Francisco,/financial-organization/greylock,Greylock Partners,,USA,CA,SF Bay,Menlo Park,series-a,1/1/08,2008-01,2008-Q1,2008.0,5500000.0,31474
+"/company/appirio",Appirio,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/sequoia-capital,Sequoia Capital,,USA,CA,SF Bay,Menlo Park,series-b,7/21/08,2008-07,2008-Q3,2008.0,5600000.0,56995
+"/company/achievers",Achievers,software,USA,CA,SF Bay,San Francisco,/financial-organization/relay-ventures,Relay Ventures,,USA,CA,SF Bay,Menlo Park,series-b,5/7/09,2009-05,2009-Q2,2009.0,5922326.0,54288
+"/company/achievers",Achievers,software,USA,CA,SF Bay,San Francisco,/financial-organization/laurence-capital,Laurence Capital,,CAN,,Waterloo,"Waterloo, ON",series-b,5/7/09,2009-05,2009-Q2,2009.0,5922326.0,40746
+"/company/achievers",Achievers,software,USA,CA,SF Bay,San Francisco,/financial-organization/grandbanks-capital,GrandBanks Capital,,USA,MA,Boston,Wellesley,series-b,5/7/09,2009-05,2009-Q2,2009.0,5922326.0,30789
+"/company/appthority",Appthority,security,USA,CA,SF Bay,San Francisco,/financial-organization/us-venture-partners,US Venture Partners,,USA,CA,SF Bay,Menlo Park,series-a,5/2/12,2012-05,2012-Q2,2012.0,6250000.0,66459
+"/company/appthority",Appthority,security,USA,CA,SF Bay,San Francisco,/financial-organization/venrock,Venrock,,USA,CA,SF Bay,Palo Alto,series-a,5/2/12,2012-05,2012-Q2,2012.0,6250000.0,67236
+"/company/act-biotech",ACT Biotech,biotech,USA,CA,SF Bay,San Francisco,/financial-organization/ngn-capital,NGN Capital,,USA,NY,New York,New York,series-a,5/6/08,2008-05,2008-Q2,2008.0,6567000.0,47580
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/financial-organization/andreessen-horowitz,Andreessen Horowitz,,USA,CA,SF Bay,Menlo Park,venture,10/1/12,2012-10,2012-Q4,2012.0,6621000.0,10309
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/financial-organization/sequoia-capital,Sequoia Capital,,USA,CA,SF Bay,Menlo Park,venture,10/1/12,2012-10,2012-Q4,2012.0,6621000.0,57385
+"/company/aravo-solutions-inc",Aravo Solutions,enterprise,USA,CA,SF Bay,San Francisco,/person/stephen-friedman,Stephen Friedman,,,,unknown,,series-c+,12/16/08,2008-12,2008-Q4,2008.0,7000000.0,82427
+"/company/aravo-solutions-inc",Aravo Solutions,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/big-sky-partners,Big Sky Partners,,USA,CA,SF Bay,Sausalito,series-c+,12/16/08,2008-12,2008-Q4,2008.0,7000000.0,15015
+"/company/aravo-solutions-inc",Aravo Solutions,enterprise,USA,CA,SF Bay,San Francisco,/person/tony-mayer,Tony Mayer,,,,unknown,,series-c+,12/16/08,2008-12,2008-Q4,2008.0,7000000.0,83254
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/person/jeremy-stoppelman,Jeremy Stoppelman,,,,unknown,,series-a,11/10/10,2010-11,2010-Q4,2010.0,7200000.0,76192
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/person/elad-gil,Elad Gil,,,,unknown,,series-a,11/10/10,2010-11,2010-Q4,2010.0,7200000.0,74012
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/financial-organization/sv-angel,SV Angel,,USA,CA,SF Bay,San Francisco,series-a,11/10/10,2010-11,2010-Q4,2010.0,7200000.0,61759
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/financial-organization/greylock,Greylock Partners,,USA,CA,SF Bay,Menlo Park,series-a,11/10/10,2010-11,2010-Q4,2010.0,7200000.0,31423
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/financial-organization/youniversity-ventures,Youniversity Ventures,,USA,CA,SF Bay,Palo Alto,series-a,11/10/10,2010-11,2010-Q4,2010.0,7200000.0,69867
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/financial-organization/sequoia-capital,Sequoia Capital,,USA,CA,SF Bay,Menlo Park,series-a,11/10/10,2010-11,2010-Q4,2010.0,7200000.0,57201
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/person/keith-rabois,Keith Rabois,,,,unknown,,series-a,11/10/10,2010-11,2010-Q4,2010.0,7200000.0,77327
+"/company/aligo",Aligo,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/rbc-venture-partners,RBC Venture Partners,,CAN,,Toronto,Toronto,venture,6/22/06,2006-06,2006-Q2,2006.0,7920000.0,53797
+"/company/aligo",Aligo,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/thomas-weisel-venture-partners,Thomas Weisel Venture Partners,,USA,CA,SF Bay,San Francisco,venture,6/22/06,2006-06,2006-Q2,2006.0,7920000.0,64040
+"/company/aligo",Aligo,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/motorola-solutions-venture-capital,Motorola Solutions Venture Capital,,USA,IL,Chicago,Schaumburg,venture,6/22/06,2006-06,2006-Q2,2006.0,7920000.0,45647
+"/company/aligo",Aligo,mobile,USA,CA,SF Bay,San Francisco,/financial-organization/dolphin-equity-partners,Dolphin Equity Partners,,USA,NY,New York,New York,venture,6/22/06,2006-06,2006-Q2,2006.0,7920000.0,22560
+"/company/august",August,hardware,USA,CA,SF Bay,San Francisco,/financial-organization/cowboy-ventures,Cowboy Ventures,,USA,CA,SF Bay,Palo Alto,series-a,11/19/13,2013-11,2013-Q4,2013.0,8000000.0,20217
+"/company/august",August,hardware,USA,CA,SF Bay,San Francisco,/financial-organization/rho-ventures,Rho Ventures,,USA,NY,New York,New York,series-a,11/19/13,2013-11,2013-Q4,2013.0,8000000.0,54665
+"/company/altius-education",Altius Education,education,USA,CA,SF Bay,San Francisco,/financial-organization/spark-capital,Spark Capital,,USA,MA,Boston,Boston,series-a,9/23/09,2009-09,2009-Q3,2009.0,8000000.0,60048
+"/company/august",August,hardware,USA,CA,SF Bay,San Francisco,/financial-organization/maveron,Maveron,,USA,WA,Seattle,Seattle,series-a,11/19/13,2013-11,2013-Q4,2013.0,8000000.0,43256
+"/company/august",August,hardware,USA,CA,SF Bay,San Francisco,/financial-organization/softtech-vc,SoftTech VC,,USA,CA,SF Bay,Palo Alto,series-a,11/19/13,2013-11,2013-Q4,2013.0,8000000.0,59817
+"/company/altius-education",Altius Education,education,USA,CA,SF Bay,San Francisco,/financial-organization/maveron,Maveron,,USA,WA,Seattle,Seattle,series-a,9/23/09,2009-09,2009-Q3,2009.0,8000000.0,43206
+"/company/august",August,hardware,USA,CA,SF Bay,San Francisco,/financial-organization/industry-ventures,Industry Ventures,,USA,CA,SF Bay,San Francisco,series-a,11/19/13,2013-11,2013-Q4,2013.0,8000000.0,35503
+"/company/adura-technologies",Adura Technologies,cleantech,USA,CA,SF Bay,San Francisco,/financial-organization/vantagepoint-capital-partners,VantagePoint Capital Partners,,USA,CA,SF Bay,San Bruno,series-b,4/26/12,2012-04,2012-Q2,2012.0,8500000.0,66836
+"/company/adura-technologies",Adura Technologies,cleantech,USA,CA,SF Bay,San Francisco,/financial-organization/claremont-creek-ventures,Claremont Creek Ventures,,USA,CA,SF Bay,Oakland,series-b,4/26/12,2012-04,2012-Q2,2012.0,8500000.0,18804
+"/company/appdirect",AppDirect,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/inovia-capital,iNovia Capital,,CAN,,Montreal,Montreal,series-a,7/18/12,2012-07,2012-Q3,2012.0,8500000.0,36060
+"/company/adura-technologies",Adura Technologies,cleantech,USA,CA,SF Bay,San Francisco,/financial-organization/ngen-ventures,NGEN Partners,,USA,CA,Santa Barbara,Santa Barbara,series-b,4/26/12,2012-04,2012-Q2,2012.0,8500000.0,47565
+"/company/appdirect",AppDirect,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/stingray-digital,Stingray Digital,,CAN,,Montreal,Montr_al,series-a,7/18/12,2012-07,2012-Q3,2012.0,8500000.0,61072
+"/company/appdirect",AppDirect,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/inovia-capital,iNovia Capital,,CAN,,Montreal,Montreal,series-b,9/10/13,2013-09,2013-Q3,2013.0,9000000.0,36082
+"/company/avolent",Avolent,software,USA,CA,SF Bay,San Francisco,/financial-organization/rbc-venture-partners,RBC Venture Partners,,CAN,,Toronto,Toronto,venture,10/9/06,2006-10,2006-Q4,2006.0,9000000.0,53796
+"/company/avolent",Avolent,software,USA,CA,SF Bay,San Francisco,/financial-organization/rho-capital-ventures,Rho Capital Partners,,USA,NY,New York,New York,venture,10/9/06,2006-10,2006-Q4,2006.0,9000000.0,54599
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/financial-organization/benchmark-2,Benchmark,,USA,CA,SF Bay,Menlo Park,series-a,11/24/09,2009-11,2009-Q4,2009.0,9000000.0,14294
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/financial-organization/andreessen-horowitz,Andreessen Horowitz,,USA,CA,SF Bay,Menlo Park,series-a,11/24/09,2009-11,2009-Q4,2009.0,9000000.0,10086
+"/company/avolent",Avolent,software,USA,CA,SF Bay,San Francisco,/financial-organization/columbia-capital,Columbia Capital,,USA,VA,Washington DC,Alexandria,venture,10/9/06,2006-10,2006-Q4,2006.0,9000000.0,19327
+"/company/avolent",Avolent,software,USA,CA,SF Bay,San Francisco,/financial-organization/constellation-ventures,Constellation Ventures,,USA,NY,New York,New York,venture,10/9/06,2006-10,2006-Q4,2006.0,9000000.0,19866
+"/company/appirio",Appirio,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/ggv-capital,GGV Capital,,USA,CA,SF Bay,Menlo Park,series-c+,2/25/09,2009-02,2009-Q1,2009.0,1.0E7,29684
+"/company/arch-rock-corporationarch-rock-corporation",Arch Rock Corporation,software,USA,CA,SF Bay,San Francisco,/financial-organization/shasta-ventures,Shasta Ventures,,USA,CA,SF Bay,Menlo Park,series-b,5/2/07,2007-05,2007-Q2,2007.0,1.0E7,57800
+"/company/applied-identity",Applied Identity,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/sigma-partners,Sigma Partners,,USA,MA,Boston,Boston,series-c+,10/1/08,2008-10,2008-Q4,2008.0,1.0E7,58453
+"/company/applied-identity",Applied Identity,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/ovp-venture-partners,OVP Venture Partners,,USA,WA,Seattle,Seattle,series-c+,10/1/08,2008-10,2008-Q4,2008.0,1.0E7,50316
+"/company/allbusiness-com",AllBusiness.com,web,USA,CA,SF Bay,San Francisco,/financial-organization/vantagepoint-capital-partners,VantagePoint Capital Partners,,USA,CA,SF Bay,San Bruno,series-b,7/1/04,2004-07,2004-Q3,2004.0,1.0E7,66744
+"/company/aria-systems",Aria Systems,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/venrock,Venrock,,USA,CA,SF Bay,Palo Alto,series-b,12/8/08,2008-12,2008-Q4,2008.0,1.0E7,67104
+"/company/arch-rock-corporationarch-rock-corporation",Arch Rock Corporation,software,USA,CA,SF Bay,San Francisco,/financial-organization/new-enterprise-associates,New Enterprise Associates,,USA,CA,SF Bay,Menlo Park,series-b,5/2/07,2007-05,2007-Q2,2007.0,1.0E7,46510
+"/company/arch-rock-corporationarch-rock-corporation",Arch Rock Corporation,software,USA,CA,SF Bay,San Francisco,/financial-organization/intel-capital,Intel Capital,,USA,CA,SF Bay,Santa Clara,series-b,5/2/07,2007-05,2007-Q2,2007.0,1.0E7,36419
+"/company/applied-identity",Applied Identity,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/globespan-capital-partners,Globespan Capital Partners,,USA,MA,Boston,Boston,series-c+,10/1/08,2008-10,2008-Q4,2008.0,1.0E7,30039
+"/company/aravo-solutions-inc",Aravo Solutions,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/big-sky-partners,Big Sky Partners,,USA,CA,SF Bay,Sausalito,series-c+,8/1/07,2007-08,2007-Q3,2007.0,1.0E7,15020
+"/company/applied-identity",Applied Identity,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/bay-partners,Bay Partners,,USA,CA,SF Bay,Menlo Park,series-c+,10/1/08,2008-10,2008-Q4,2008.0,1.0E7,13632
+"/company/applied-identity",Applied Identity,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/abs-ventures,ABS Ventures,,USA,MA,Boston,Waltham,series-c+,10/1/08,2008-10,2008-Q4,2008.0,1.0E7,7483
+"/company/appirio",Appirio,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/sequoia-capital,Sequoia Capital,,USA,CA,SF Bay,Menlo Park,series-c+,2/25/09,2009-02,2009-Q1,2009.0,1.0E7,57022
+"/company/alivecor",AliveCor,health,USA,CA,SF Bay,San Francisco,/financial-organization/khosla-ventures,Khosla Ventures,,USA,CA,SF Bay,Menlo Park,series-b,6/10/12,2012-06,2012-Q2,2012.0,1.05E7,39405
+"/company/alivecor",AliveCor,health,USA,CA,SF Bay,San Francisco,/financial-organization/qualcomm-ventures,Qualcomm Ventures,,USA,CA,San Diego,San Diego,series-b,6/10/12,2012-06,2012-Q2,2012.0,1.05E7,53318
+"/company/alivecor",AliveCor,health,USA,CA,SF Bay,San Francisco,/financial-organization/burrill-co,Burrill & Company,,USA,CA,SF Bay,San Francisco,series-b,6/10/12,2012-06,2012-Q2,2012.0,1.05E7,16439
+"/company/alivecor",AliveCor,health,USA,CA,SF Bay,San Francisco,/financial-organization/oklahoma-life-science-fund,Oklahoma Life Science Fund,,USA,OK,Tulsa,Tulsa,series-b,6/10/12,2012-06,2012-Q2,2012.0,1.05E7,49518
+"/company/applied-identity",Applied Identity,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/bay-partners,Bay Partners,,USA,CA,SF Bay,Menlo Park,series-a,1/13/05,2005-01,2005-Q1,2005.0,1.1E7,13684
+"/company/applied-identity",Applied Identity,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/globespan-capital-partners,Globespan Capital Partners,,USA,MA,Boston,Boston,series-a,1/13/05,2005-01,2005-Q1,2005.0,1.1E7,30089
+"/company/appdynamics",AppDynamics,software,USA,CA,SF Bay,San Francisco,/financial-organization/lightspeed-venture-partners,Lightspeed Venture Partners,,USA,CA,SF Bay,Menlo Park,series-b,5/3/10,2010-05,2010-Q2,2010.0,1.1E7,41562
+"/company/applied-identity",Applied Identity,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/sigma-partners,Sigma Partners,,USA,MA,Boston,Boston,series-a,1/13/05,2005-01,2005-Q1,2005.0,1.1E7,58531
+"/company/appdynamics",AppDynamics,software,USA,CA,SF Bay,San Francisco,/financial-organization/greylock,Greylock Partners,,USA,CA,SF Bay,Menlo Park,series-b,5/3/10,2010-05,2010-Q2,2010.0,1.1E7,31387
+"/company/academia-edu",Academia.edu,social,USA,CA,SF Bay,San Francisco,/financial-organization/true-ventures,True Ventures,,USA,CA,SF Bay,Palo Alto,series-b,9/26/13,2013-09,2013-Q3,2013.0,1.11E7,65522
+"/company/academia-edu",Academia.edu,social,USA,CA,SF Bay,San Francisco,/financial-organization/khosla-ventures,Khosla Ventures,,USA,CA,SF Bay,Menlo Park,series-b,9/26/13,2013-09,2013-Q3,2013.0,1.11E7,39470
+"/company/academia-edu",Academia.edu,social,USA,CA,SF Bay,San Francisco,/financial-organization/spark-capital,Spark Capital,,USA,MA,Boston,Boston,series-b,9/26/13,2013-09,2013-Q3,2013.0,1.11E7,60133
+"/company/anaplan",Anaplan,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/shasta-ventures,Shasta Ventures,,USA,CA,SF Bay,Menlo Park,series-b,1/19/12,2012-01,2012-Q1,2012.0,1.14E7,57857
+"/company/anaplan",Anaplan,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/granite-ventures,Granite Ventures,,USA,CA,SF Bay,San Francisco,series-b,1/19/12,2012-01,2012-Q1,2012.0,1.14E7,30898
+"/company/applied-identity",Applied Identity,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/sigma-partners,Sigma Partners,,USA,MA,Boston,Boston,series-b,5/25/06,2006-05,2006-Q2,2006.0,1.2E7,58522
+"/company/ad-infuse",Ad Infuse,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/softbank-capital,SoftBank Capital,,USA,MA,Boston,Newton,series-b,1/23/08,2008-01,2008-Q1,2008.0,1.2E7,59530
+"/company/ad-infuse",Ad Infuse,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/storm-ventures,Storm Ventures,,USA,CA,SF Bay,Menlo Park,series-b,1/23/08,2008-01,2008-Q1,2008.0,1.2E7,61111
+"/company/applied-identity",Applied Identity,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/bay-partners,Bay Partners,,USA,CA,SF Bay,Menlo Park,series-b,5/25/06,2006-05,2006-Q2,2006.0,1.2E7,13679
+"/company/alphabet-energy",Alphabet Energy,cleantech,USA,CA,SF Bay,San Francisco,/financial-organization/calcef-clean-energy-angel-fund,CalCEF Clean Energy Angel Fund,,USA,CA,SF Bay,San Francisco,series-a,9/15/11,2011-09,2011-Q3,2011.0,1.2E7,16651
+"/company/alphabet-energy",Alphabet Energy,cleantech,USA,CA,SF Bay,San Francisco,/financial-organization/tpg-biotech,TPG Biotech,,USA,CA,SF Bay,San Francisco,series-a,9/15/11,2011-09,2011-Q3,2011.0,1.2E7,64589
+"/company/adura-technologies",Adura Technologies,cleantech,USA,CA,SF Bay,San Francisco,/financial-organization/claremont-creek-ventures,Claremont Creek Ventures,,USA,CA,SF Bay,Oakland,series-b,2/22/10,2010-02,2010-Q1,2010.0,1.2E7,18786
+"/company/alphabet-energy",Alphabet Energy,cleantech,USA,CA,SF Bay,San Francisco,/financial-organization/claremont-creek-ventures,Claremont Creek Ventures,,USA,CA,SF Bay,Oakland,series-a,9/15/11,2011-09,2011-Q3,2011.0,1.2E7,18797
+"/company/applied-identity",Applied Identity,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/ovp-venture-partners,OVP Venture Partners,,USA,WA,Seattle,Seattle,series-b,5/25/06,2006-05,2006-Q2,2006.0,1.2E7,50356
+"/company/ad-infuse",Ad Infuse,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/comventures,ComVentures,,USA,,TBD,,series-b,1/23/08,2008-01,2008-Q1,2008.0,1.2E7,19672
+"/company/adura-technologies",Adura Technologies,cleantech,USA,CA,SF Bay,San Francisco,/financial-organization/ngen-ventures,NGEN Partners,,USA,CA,Santa Barbara,Santa Barbara,series-b,2/22/10,2010-02,2010-Q1,2010.0,1.2E7,47556
+"/company/applied-identity",Applied Identity,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/globespan-capital-partners,Globespan Capital Partners,,USA,MA,Boston,Boston,series-b,5/25/06,2006-05,2006-Q2,2006.0,1.2E7,30081
+"/company/adura-technologies",Adura Technologies,cleantech,USA,CA,SF Bay,San Francisco,/financial-organization/vantagepoint-capital-partners,VantagePoint Capital Partners,,USA,CA,SF Bay,San Bruno,series-b,2/22/10,2010-02,2010-Q1,2010.0,1.2E7,66780
+"/company/allbusiness-com",AllBusiness.com,web,USA,CA,SF Bay,San Francisco,/financial-organization/sutter-hill-ventures,Sutter Hill Ventures,,USA,CA,SF Bay,Palo Alto,series-c+,2/1/06,2006-02,2006-Q1,2006.0,1.24E7,61524
+"/company/allbusiness-com",AllBusiness.com,web,USA,CA,SF Bay,San Francisco,/financial-organization/reed-elsevier,Reed Elsevier Ventures,,GBR,,London,London,series-c+,2/1/06,2006-02,2006-Q1,2006.0,1.24E7,54235
+"/company/allbusiness-com",AllBusiness.com,web,USA,CA,SF Bay,San Francisco,/financial-organization/vantagepoint-capital-partners,VantagePoint Capital Partners,,USA,CA,SF Bay,San Bruno,series-c+,2/1/06,2006-02,2006-Q1,2006.0,1.24E7,66745
+"/company/achievers",Achievers,software,USA,CA,SF Bay,San Francisco,/financial-organization/ontario-venture-capital-fund,Ontario Venture Capital Fund,,CAN,,Toronto,Toronto,venture,9/19/11,2011-09,2011-Q3,2011.0,1.4E7,49785
+"/company/achievers",Achievers,software,USA,CA,SF Bay,San Francisco,/financial-organization/laurence-capital,Laurence Capital,,CAN,,Waterloo,"Waterloo, ON",venture,9/19/11,2011-09,2011-Q3,2011.0,1.4E7,40747
+"/company/achievers",Achievers,software,USA,CA,SF Bay,San Francisco,/financial-organization/grandbanks-capital,GrandBanks Capital,,USA,MA,Boston,Wellesley,venture,9/19/11,2011-09,2011-Q3,2011.0,1.4E7,30811
+"/company/achievers",Achievers,software,USA,CA,SF Bay,San Francisco,/financial-organization/relay-ventures,Relay Ventures,,USA,CA,SF Bay,Menlo Park,venture,9/19/11,2011-09,2011-Q3,2011.0,1.4E7,54309
+"/company/adroll-semantic-sugar-inc",AdRoll,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/foundation-capital,Foundation Capital,,USA,CA,SF Bay,Menlo Park,series-b,7/11/12,2012-07,2012-Q3,2012.0,1.5E7,27856
+"/company/apartmentlist",Apartment List,web,USA,CA,SF Bay,San Francisco,/financial-organization/matrix-partners,Matrix Partners,,USA,CA,SF Bay,Palo Alto,series-a,11/20/13,2013-11,2013-Q4,2013.0,1.5E7,43123
+"/company/adroll-semantic-sugar-inc",AdRoll,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/merus-capital,Merus Capital,,USA,CA,SF Bay,Palo Alto,series-b,7/11/12,2012-07,2012-Q3,2012.0,1.5E7,44205
+"/company/adroll-semantic-sugar-inc",AdRoll,advertising,USA,CA,SF Bay,San Francisco,/financial-organization/accel-partners,Accel Partners,,USA,CA,SF Bay,Palo Alto,series-b,7/11/12,2012-07,2012-Q3,2012.0,1.5E7,7910
+"/company/alphabet-energy",Alphabet Energy,cleantech,USA,CA,SF Bay,San Francisco,/financial-organization/tpg-biotech,TPG Biotech,,USA,CA,SF Bay,San Francisco,series-b,3/11/13,2013-03,2013-Q1,2013.0,1.6E7,64596
+"/company/alphabet-energy",Alphabet Energy,cleantech,USA,CA,SF Bay,San Francisco,/financial-organization/calcef-clean-energy-angel-fund,CalCEF Clean Energy Angel Fund,,USA,CA,SF Bay,San Francisco,series-b,3/11/13,2013-03,2013-Q1,2013.0,1.6E7,16653
+"/company/alphabet-energy",Alphabet Energy,cleantech,USA,CA,SF Bay,San Francisco,/financial-organization/claremont-creek-ventures,Claremont Creek Ventures,,USA,CA,SF Bay,Oakland,series-b,3/11/13,2013-03,2013-Q1,2013.0,1.6E7,18810
+"/company/alphabet-energy",Alphabet Energy,cleantech,USA,CA,SF Bay,San Francisco,/company/encana,EnCana,enterprise,CAN,,Calgary,"Calgary, AB",series-b,3/11/13,2013-03,2013-Q1,2013.0,1.6E7,1646
+"/company/altius-education",Altius Education,education,USA,CA,SF Bay,San Francisco,/financial-organization/maveron,Maveron,,USA,WA,Seattle,Seattle,series-b,11/17/10,2010-11,2010-Q4,2010.0,1.86E7,43223
+"/company/altius-education",Altius Education,education,USA,CA,SF Bay,San Francisco,/financial-organization/charles-river-ventures,Charles River Ventures,,USA,MA,Boston,Cambridge,series-b,11/17/10,2010-11,2010-Q4,2010.0,1.86E7,18159
+"/company/altius-education",Altius Education,education,USA,CA,SF Bay,San Francisco,/financial-organization/spark-capital,Spark Capital,,USA,MA,Boston,Boston,series-b,11/17/10,2010-11,2010-Q4,2010.0,1.86E7,60065
+"/company/aravo-solutions-inc",Aravo Solutions,enterprise,USA,CA,SF Bay,San Francisco,/person/tony-mayer,Tony Mayer,,,,unknown,,series-c+,11/24/09,2009-11,2009-Q4,2009.0,1.9E7,83255
+"/company/aravo-solutions-inc",Aravo Solutions,enterprise,USA,CA,SF Bay,San Francisco,/person/stephen-friedman,Stephen Friedman,,,,unknown,,series-c+,11/24/09,2009-11,2009-Q4,2009.0,1.9E7,82428
+"/company/aravo-solutions-inc",Aravo Solutions,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/big-sky-partners,Big Sky Partners,,USA,CA,SF Bay,Sausalito,series-c+,11/24/09,2009-11,2009-Q4,2009.0,1.9E7,15016
+"/company/appdynamics",AppDynamics,software,USA,CA,SF Bay,San Francisco,/financial-organization/greylock,Greylock Partners,,USA,CA,SF Bay,Menlo Park,series-c+,1/17/12,2012-01,2012-Q1,2012.0,2.0E7,31475
+"/company/appdynamics",AppDynamics,software,USA,CA,SF Bay,San Francisco,/financial-organization/lightspeed-venture-partners,Lightspeed Venture Partners,,USA,CA,SF Bay,Menlo Park,series-c+,1/17/12,2012-01,2012-Q1,2012.0,2.0E7,41639
+"/company/appdynamics",AppDynamics,software,USA,CA,SF Bay,San Francisco,/financial-organization/kleiner-perkins-caufield-byers,Kleiner Perkins Caufield & Byers,,USA,CA,SF Bay,Menlo Park,series-c+,1/17/12,2012-01,2012-Q1,2012.0,2.0E7,40018
+"/company/autonomic-technologies",Autonomic Technologies,medical,USA,CA,SF Bay,San Francisco,/financial-organization/interwest-partners,InterWest Partners,,USA,CA,SF Bay,Menlo Park,series-b,5/22/09,2009-05,2009-Q2,2009.0,2.0E7,37091
+"/company/atom-entertainment",Atom Entertainment,games_video,USA,CA,SF Bay,San Francisco,/financial-organization/waterview-partners,WaterView Partners,,,,unknown,,series-a,3/1/01,2001-03,2001-Q1,2001.0,2.29E7,68727
+"/company/atom-entertainment",Atom Entertainment,games_video,USA,CA,SF Bay,San Francisco,/financial-organization/sequoia-capital,Sequoia Capital,,USA,CA,SF Bay,Menlo Park,series-a,3/1/01,2001-03,2001-Q1,2001.0,2.29E7,56922
+"/company/atom-entertainment",Atom Entertainment,games_video,USA,CA,SF Bay,San Francisco,/company/macromedia,Macromedia,software,USA,CA,SF Bay,San Francisco,series-a,3/1/01,2001-03,2001-Q1,2001.0,2.29E7,2960
+"/company/atom-entertainment",Atom Entertainment,games_video,USA,CA,SF Bay,San Francisco,/company/intel,Intel,hardware,USA,CA,SF Bay,Santa Clara,series-a,3/1/01,2001-03,2001-Q1,2001.0,2.29E7,2553
+"/company/atom-entertainment",Atom Entertainment,games_video,USA,CA,SF Bay,San Francisco,/financial-organization/arts-alliance-ventures,Arts Alliance Ventures,,GBR,,London,London,series-a,3/1/01,2001-03,2001-Q1,2001.0,2.29E7,11144
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/financial-organization/ludlow-ventures-llc,Ludlow Ventures,,USA,MI,Detroit,Detroit,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,42204
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/financial-organization/promus-ventures,Promus Ventures,,USA,IL,Chicago,Chicago,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,52940
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/company/kauffman-foundation,Kauffman Foundation,finance,USA,MO,Kansas City,Kansas City,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,2746
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/financial-organization/kleiner-perkins-caufield-byers,Kleiner Perkins Caufield & Byers,,USA,CA,SF Bay,Menlo Park,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,40142
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/financial-organization/lakestar,Lakestar,,USA,,United States - Other,,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,40507
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/person/marc-andreessen,Marc Andreessen,,,,unknown,,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,78094
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/financial-organization/500-startups,500 Startups,,USA,CA,SF Bay,Mountain View,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,7154
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/financial-organization/rothenberg-ventures,Rothenberg Ventures,,USA,CA,SF Bay,San Francisco,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,55224
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/financial-organization/expansion-venture-capital,Expansion Venture Capital,,USA,NY,New York,New York,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,25547
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/financial-organization/social-leverage,Social Leverage,,USA,AZ,Phoenix,Phoenix,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,59252
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/financial-organization/emerge,Emerge,,BEL,,Brussels,Brussels,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,24468
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/financial-organization/draper-fisher-jurvetson,Draper Fisher Jurvetson (DFJ),,USA,CA,SF Bay,Menlo Park,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,23248
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/person/max-levchin,Max Levchin,,,,unknown,,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,78768
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/financial-organization/crunchfund,CrunchFund,,USA,CA,SF Bay,San Francisco,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,20865
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/financial-organization/google-ventures,Google Ventures,,USA,CA,SF Bay,Mountain View,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,30704
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/person/mitch-kapor,Mitch Kapor,,,,unknown,,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,79367
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/person/nicolai-wadstrom,Nicolai Wadstrom,,,,unknown,,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,79643
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/financial-organization/stage-one-capital,Stage One Capital,,USA,TX,SF Bay,San Francisco,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,60544
+"/company/angellist",AngelList,other,USA,CA,SF Bay,San Francisco,/financial-organization/atlas-venture,Atlas Venture,,USA,MA,Boston,Cambridge,venture,9/22/13,2013-09,2013-Q3,2013.0,2.4E7,11789
+"/company/achievers",Achievers,software,USA,CA,SF Bay,San Francisco,/financial-organization/grandbanks-capital,GrandBanks Capital,,USA,MA,Boston,Wellesley,series-c+,9/28/11,2011-09,2011-Q3,2011.0,2.45E7,30812
+"/company/achievers",Achievers,software,USA,CA,SF Bay,San Francisco,/financial-organization/ontario-venture-capital-fund,Ontario Venture Capital Fund,,CAN,,Toronto,Toronto,series-c+,9/28/11,2011-09,2011-Q3,2011.0,2.45E7,49786
+"/company/achievers",Achievers,software,USA,CA,SF Bay,San Francisco,/financial-organization/sequoia-capital,Sequoia Capital,,USA,CA,SF Bay,Menlo Park,series-c+,9/28/11,2011-09,2011-Q3,2011.0,2.45E7,57266
+"/company/achievers",Achievers,software,USA,CA,SF Bay,San Francisco,/financial-organization/relay-ventures,Relay Ventures,,USA,CA,SF Bay,Menlo Park,series-c+,9/28/11,2011-09,2011-Q3,2011.0,2.45E7,54310
+"/company/aria-systems",Aria Systems,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/tugboat-ventures,Tugboat Ventures,,USA,CA,SF Bay,Palo Alto,series-c+,2/1/11,2011-02,2011-Q1,2011.0,2.72E7,65661
+"/company/aria-systems",Aria Systems,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/venrock,Venrock,,USA,CA,SF Bay,Palo Alto,series-c+,2/1/11,2011-02,2011-Q1,2011.0,2.72E7,67208
+"/company/aria-systems",Aria Systems,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/hummer-winblad-venture-partners,Hummer Winblad Venture Partners,,USA,CA,SF Bay,San Francisco,series-c+,2/1/11,2011-02,2011-Q1,2011.0,2.72E7,33764
+"/company/aria-systems",Aria Systems,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/interwest-partners,InterWest Partners,,USA,CA,SF Bay,Menlo Park,series-c+,2/1/11,2011-02,2011-Q1,2011.0,2.72E7,37165
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/financial-organization/andreessen-horowitz,Andreessen Horowitz,,USA,CA,SF Bay,Menlo Park,series-b,7/23/12,2012-07,2012-Q3,2012.0,2.8E7,10193
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/person/peter-thiel,Peter Thiel,,,,unknown,,series-b,7/23/12,2012-07,2012-Q3,2012.0,2.8E7,80417
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/financial-organization/benchmark-2,Benchmark,,USA,CA,SF Bay,Menlo Park,series-b,7/23/12,2012-07,2012-Q3,2012.0,2.8E7,14438
+"/company/asana",Asana,software,USA,CA,SF Bay,San Francisco,/financial-organization/founders-fund,Founders Fund,,USA,CA,SF Bay,San Francisco,series-b,7/23/12,2012-07,2012-Q3,2012.0,2.8E7,28254
+"/company/automattic",Automattic,web,USA,CA,SF Bay,San Francisco,/financial-organization/radar-partners,Radar Partners,,USA,CA,SF Bay,Palo Alto,series-b,1/1/08,2008-01,2008-Q1,2008.0,2.95E7,53658
+"/company/automattic",Automattic,web,USA,CA,SF Bay,San Francisco,/financial-organization/true-ventures,True Ventures,,USA,CA,SF Bay,Palo Alto,series-b,1/1/08,2008-01,2008-Q1,2008.0,2.95E7,65339
+"/company/automattic",Automattic,web,USA,CA,SF Bay,San Francisco,/financial-organization/polaris-partners,Polaris Partners,,USA,MA,Boston,Waltham,series-b,1/1/08,2008-01,2008-Q1,2008.0,2.95E7,52150
+"/company/automattic",Automattic,web,USA,CA,SF Bay,San Francisco,/company/newyorktimes,New York Times,news,USA,NY,New York,New York,series-b,1/1/08,2008-01,2008-Q1,2008.0,2.95E7,3462
+"/company/audentes-therapeutics",Audentes Therapeutics,biotech,USA,CA,SF Bay,San Francisco,/financial-organization/5am-ventures,5AM Ventures,,USA,CA,SF Bay,Menlo Park,series-a,7/18/13,2013-07,2013-Q3,2013.0,3.0E7,7248
+"/company/audentes-therapeutics",Audentes Therapeutics,biotech,USA,CA,SF Bay,San Francisco,/financial-organization/orbimed-advisors,OrbiMed Advisors,,USA,NY,New York,New York,series-a,7/18/13,2013-07,2013-Q3,2013.0,3.0E7,50005
+"/company/audentes-therapeutics",Audentes Therapeutics,biotech,USA,CA,SF Bay,San Francisco,/financial-organization/versant-ventures,Versant Ventures,,USA,CA,SF Bay,Menlo Park,series-a,7/18/13,2013-07,2013-Q3,2013.0,3.0E7,67693
+"/company/anaplan",Anaplan,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/meritech-capital-partners,Meritech Capital Partners,,USA,CA,SF Bay,Palo Alto,series-c+,3/5/13,2013-03,2013-Q1,2013.0,3.3E7,44136
+"/company/anaplan",Anaplan,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/shasta-ventures,Shasta Ventures,,USA,CA,SF Bay,Menlo Park,series-c+,3/5/13,2013-03,2013-Q1,2013.0,3.3E7,57887
+"/company/anaplan",Anaplan,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/granite-ventures,Granite Ventures,,USA,CA,SF Bay,San Francisco,series-c+,3/5/13,2013-03,2013-Q1,2013.0,3.3E7,30903
+"/company/aria-systems",Aria Systems,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/bain-capital-ventures,Bain Capital Ventures,,USA,MA,Boston,Boston,series-c+,11/19/13,2013-11,2013-Q4,2013.0,4.0E7,12748
+"/company/aria-systems",Aria Systems,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/interwest-partners,InterWest Partners,,USA,CA,SF Bay,Menlo Park,series-c+,11/19/13,2013-11,2013-Q4,2013.0,4.0E7,37243
+"/company/aria-systems",Aria Systems,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/hummer-winblad-venture-partners,Hummer Winblad Venture Partners,,USA,CA,SF Bay,San Francisco,series-c+,11/19/13,2013-11,2013-Q4,2013.0,4.0E7,33789
+"/company/aria-systems",Aria Systems,enterprise,USA,CA,SF Bay,San Francisco,/company/vmware,VMware,software,USA,CA,SF Bay,Palo Alto,series-c+,11/19/13,2013-11,2013-Q4,2013.0,4.0E7,5769
+"/company/aria-systems",Aria Systems,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/tugboat-ventures,Tugboat Ventures,,USA,CA,SF Bay,Palo Alto,series-c+,11/19/13,2013-11,2013-Q4,2013.0,4.0E7,65673
+"/company/aria-systems",Aria Systems,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/venrock,Venrock,,USA,CA,SF Bay,Palo Alto,series-c+,11/19/13,2013-11,2013-Q4,2013.0,4.0E7,67271
+"/company/appdynamics",AppDynamics,software,USA,CA,SF Bay,San Francisco,/financial-organization/greylock,Greylock Partners,,USA,CA,SF Bay,Menlo Park,series-c+,1/23/13,2013-01,2013-Q1,2013.0,5.0E7,31525
+"/company/anki",Anki,hardware,USA,CA,SF Bay,San Francisco,/financial-organization/index-ventures,Index Ventures,,GBR,,London,London,venture,6/1/13,2013-06,2013-Q2,2013.0,5.0E7,35319
+"/company/appdynamics",AppDynamics,software,USA,CA,SF Bay,San Francisco,/financial-organization/lightspeed-venture-partners,Lightspeed Venture Partners,,USA,CA,SF Bay,Menlo Park,series-c+,1/23/13,2013-01,2013-Q1,2013.0,5.0E7,41680
+"/company/appdynamics",AppDynamics,software,USA,CA,SF Bay,San Francisco,/financial-organization/institutional-venture-partners,Institutional Venture Partners,,USA,CA,SF Bay,Menlo Park,series-c+,1/23/13,2013-01,2013-Q1,2013.0,5.0E7,36286
+"/company/anki",Anki,hardware,USA,CA,SF Bay,San Francisco,/financial-organization/andreessen-horowitz,Andreessen Horowitz,,USA,CA,SF Bay,Menlo Park,venture,6/1/13,2013-06,2013-Q2,2013.0,5.0E7,10266
+"/company/anki",Anki,hardware,USA,CA,SF Bay,San Francisco,/financial-organization/two-sigma-ventures,Two Sigma Ventures,,,,unknown,,venture,6/1/13,2013-06,2013-Q2,2013.0,5.0E7,65784
+"/company/appdynamics",AppDynamics,software,USA,CA,SF Bay,San Francisco,/financial-organization/kleiner-perkins-caufield-byers,Kleiner Perkins Caufield & Byers,,USA,CA,SF Bay,Menlo Park,series-c+,1/23/13,2013-01,2013-Q1,2013.0,5.0E7,40088
+"/company/appirio",Appirio,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/general-atlantic,General Atlantic,,USA,CT,New York,Greenwich,series-c+,3/15/12,2012-03,2012-Q1,2012.0,6.0E7,29227
+"/company/appirio",Appirio,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/sequoia-capital,Sequoia Capital,,USA,CA,SF Bay,Menlo Park,series-c+,3/15/12,2012-03,2012-Q1,2012.0,6.0E7,57285
+"/company/appirio",Appirio,enterprise,USA,CA,SF Bay,San Francisco,/financial-organization/ggv-capital,GGV Capital,,USA,CA,SF Bay,Menlo Park,series-c+,3/15/12,2012-03,2012-Q1,2012.0,6.0E7,29708
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/financial-organization/crunchfund,CrunchFund,,USA,CA,SF Bay,San Francisco,series-b,7/25/11,2011-07,2011-Q3,2011.0,1.12E8,20767
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/person/jeff-bezos,Jeff Bezos,,,,unknown,,series-b,7/25/11,2011-07,2011-Q3,2011.0,1.12E8,75971
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/person/ashton-kutcher,Ashton Kutcher,,,,unknown,,series-b,7/25/11,2011-07,2011-Q3,2011.0,1.12E8,71148
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/financial-organization/digital-sky-technologies-fo,Digital Sky Technologies,,RUS,,Moscow,Moscow,series-b,7/25/11,2011-07,2011-Q3,2011.0,1.12E8,22387
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/financial-organization/general-catalyst-partners,General Catalyst Partners,,USA,MA,Boston,Cambridge,series-b,7/25/11,2011-07,2011-Q3,2011.0,1.12E8,29358
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/financial-organization/andreessen-horowitz,Andreessen Horowitz,,USA,CA,SF Bay,Menlo Park,series-b,7/25/11,2011-07,2011-Q3,2011.0,1.12E8,10127
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/person/ashton-kutcher,Ashton Kutcher,,,,unknown,,series-c+,11/1/12,2012-11,2012-Q4,2012.0,2.0E8,71170
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/financial-organization/sequoia-capital,Sequoia Capital,,USA,CA,SF Bay,Menlo Park,series-c+,11/1/12,2012-11,2012-Q4,2012.0,2.0E8,57384
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/financial-organization/founders-fund,Founders Fund,,USA,CA,SF Bay,San Francisco,series-c+,11/1/12,2012-11,2012-Q4,2012.0,2.0E8,28290
+"/company/airbnb",Airbnb,travel,USA,CA,SF Bay,San Francisco,/financial-organization/crunchfund,CrunchFund,,USA,CA,SF Bay,San Francisco,series-c+,11/1/12,2012-11,2012-Q4,2012.0,2.0E8,20870
